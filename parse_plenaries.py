@@ -18,7 +18,7 @@ r_date, r_doc, r_kw, r_kw_cat, r_party, r_speaker, r_sent = [], [], [], [], [], 
 
 # Set year (documents are processed one year at the time)
 # Only tested for 2010-2020
-year = 2010
+year = 2018
 
 
 # Check the number of files in the data-directory
