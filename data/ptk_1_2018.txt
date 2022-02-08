@@ -1,0 +1,2319 @@
+Huom: tämä asiakirja on fiktiivinen ja käytössä ainoastaan algoritmin testaamiseen!
+
+Note: this document is fictious, and only used for algorithm testing! 
+
+Pöytäkirja PTK 10/2018 vp
+ Valmis.
+Pöytäkirja 
+PTK 10/2018 vp
+Täysistunto.
+Keskiviikko 21.2.2018 klo 14.15—17.37
+Täysistunto alkoi klo 14.15.
+Täysistunto keskeytettiin klo 14.59.
+Täysistuntoa jatkettiin klo
+15.11.
+Täysistunto päättyi klo 17.37.
+Puhetta johtivat toinen varapuhemies Tuula Haatainen (14.15—14.59 ja 15.11—15.59) ja ensim-
+mäinen varapuhemies Mauri Pekkarinen (15.59—17.37).
+1. Nimenhuuto
+Nimenhuutoraportti  Liite 1A
+Toimitettiin nimenhuuto.
+2 Pentti Tiusanen vas:  
+Arvoisa 
+puhemies! Sama huoli kuin ed. Vistbackalla.  Meillä on yh-
+teiskunnan toimesta poliisit, meillä on vanginvar-
+tijat, meillä on hyvin koulutettu ja vastuullinen
+virkamieskunta tältä osin. Nyt kuitenkin tämä yk-
+sityistäminen laajenee, ja tämä hallituksen esitys-
+hän laajentaa järjestyksenvalvojat joukkoliiken-
+teen kulkuneuvojen, liikeasemien ja kauppakes-
+kusten lisäksi myös terveyden- ja sosiaalihuollon
+toimipisteisiin, lentopaikkoihin ja satamiin.
+Vaikka yksityisten turvallisuusalan toimijoi-
+den ammattitaitoa kehitetäänkin ja koulutusta li-
+sätään, niin tähän liittyy tämä periaatteellinen ja
+käytännön kysymys, että valvonta siirtyy siis yhä
+enemmän yksityisten liikkeenharjoittajien, yksi-
+tyisten yritysten käsiin — vähän tuollainen Irak-
+ilmiö, puhemies. Yhdysvallathan on Irakin so-
+dassa nimenomaan siirtänyt armeijalta tehtäviä
+näille yksityisille yrityksille, jotka sitten suoritta-
+vat ihan sotilaallisia toimiakin.
+6 Pertti Virtanen ps: Arvoisa puhemies! Huo-
+lestuttavaa tässä on se, miten tämä tapahtuu.
+Tämä hallitus käyttää hyvin yksinkertaista jut-
+tua, että kansalta ja kansalaisilta pois, vähenne-
+tään henkilöstöä — VR tai sitten Yle — siirre-
+tään kaikki maksullisille, joissa tehdään rahaa,
+pyritään yksityistämään VR eli heikennetään pal-
+veluita, viedään kaikki maksullisille kanaville
+tv:ssä, joita tällä hetkellä katsoo Suomessa 25
+prosenttia eli noin kokoomuksen kannatusluku.
+Kaikki muut urheilut on siirretty pois, ettei kansa
+pysty katselemaan näitä, niin että kansalaisia ot-
+taa päähän tässä tapauksessa. Nyt poliiseja on vä-
+hennetty koko ajan, lisätään turvattomuutta ka-
+duilla kansalaisten, nuorten, kaikkien keskuudes-
+sa, ja taas joku iso osakefirma tai pikku, keski-
+suuri on vetämässä sitten nämä koulutetut ihmi-
+set hommiinsa. Mutta tämä on vanha, hyvin alkeellinen ja ikävä
+tapa tavallaan tuoda näitä asioita tällä lailla pei-
+tellyn kapulakielisesti, koska takana on kuiten-
+kin vaan lähinnä rahanteko, tietynlaisen turvatto-
+muuden, epävarmuuden ja pelottelun ilmapiirin
+lisääminen kansalaisten keskuudessa.
+7 Kari Kärkkäinen kd:  Arvoisa puhemies!
+Turvallisuus on yksi perustarpeistamme, ja kris-
+tillisdemokraatit ovat korostaneet sitä, että me
+olemme sitä mieltä, ja perustuslakivaliokunnan
+tavoitteiden mukaisesti ja sen jäsenenä toivon,
+että viranomaisten ja yksityisen turvallisuuden-
+valvojan toimivallanjakoa entisestään selkiyte-
+tään. On hienoa, mitä ed. Oiva Kaltiokumpu
+tuossa mainitsi, että on positiivista, jos hallitus
+tuon yksityisen turvallisuuden kokonaisuudis-
+tuksen ensi syksyyn mennessä saa eduskunnalle.
+8 Raimo Vistbacka ps: Arvoisa puhemies!
+Ed. Kaltiokumpu puhui viisaita sanoja siitä, että tur-
+vallisuus on taattava myös näissä sairaaloissa ja
+sosiaalihuoltopisteissä. Mutta valitettavaa vaan
+on se, että kun poliisihallintoa keskitetään ja reu-
+na-alueilla ei ole poliisipartioita juuri lainkaan
+näkyvillä kuin ihan poikkeustapauksissa, niin
+voimankäyttöoikeus ja se, miten voimaa käyte-
+tään, saattaa muodostua ongelmaksi nimen-
+omaan järjestyksenpitäjien osalta silloin, kun
+joudutaan poliisia odottamaan erityisen pitkään.
+Tämä on se koulutuksen pääpointti minun mie-
+lestäni, että järjestyksenvalvojilla on jonkinlai-
+nen ja selvä käsitys siitä, mitä oikeuksia heillä to-
+dellisuudessa on silloin, kun voimankäyttötilan-
+teisiin joudutaan, ja usein joudutaan niissä tilan-
+teissa, joihin ed. Kaltiokumpu viittasi, kun on
+kyse huumeidenkäyttäjistä.
+9 Kalle Jokinen kok:  Arvoisa puhemies! Tur-
+vallisuuden lisääminen yhteiskunnassa kaikin ta-
+voin on tietysti tärkeää, ja tässäkin tavoitellaan
+sitä, että yksityisillä paikoilla tai julkisilla pai-
+koilla, sairaaloissa, tarkasti rajatuilla alueilla,
+kauppakeskuksissa jne. voi toimia järjestyksen-
+valvojia, joilla on oma tehtävänsä sillä alueella.
+Järjestyksenvalvojien koulutushan on kehitty-
+nyt viime aikoina hyvin, ja poliisi viranomaisena
+valvoo järjestyksenvalvojien toimintaa heidän
+toimialueellaan. Katson, että tämä on erittäin
+hyvä järjestyksenvalvojien toimintaedellytysten
+parantamiseksi ja nimenomaan näillä rajatuilla
+alueilla. Poliisien toimintamäärärahat ja toiminta muu-
+tenkin koko ajan laajentuvassa toimintaympäris-
+tössä eivät anna periksi sitä, että poliiseja olisi
+valvomassa järjestystä sairaaloissa tai sosiaali-
+toimen toimipaikoissa tai kauppakeskuksen sisä-
+alueilla. 
+10 Oiva Kaltiokumpu kesk: Arvoisa herra pu-
+hemies! Tätä lakia käsitellessä on noussut tärkei-
+tä asioita esille: minkälainen vastuu yhteiskun-
+nalla on kansalaisten turvallisuudesta. Perustus-
+lain mukaan tämä vastuu on jakamaton. Ihmis-
+ten tulee saada yhteiskunnan varoin kaikki tur-
+vallisuuspalvelut asuinpaikasta ja varallisuudes-
+ta riippumatta, ja jos valtiovalta ei riittävästi
+näitä viranomaisten toimesta takaa, niin on vaa-
+ra, että kun palvelut menevät ostopalveluiksi, se
+eriarvoistaa sellaiset ihmiset, jotka asuvat kauka-
+na asutuskeskuksista ja poliisilaitoksista, ja toi-
+saalta eriarvoistaa myöskin varallisuuden suh-
+teen. Silloin rikkaat voivat ostaa palvelut ja vä-
+hempivaraiset voivat jäädä palveluja ilman.Täs-
+sä mielessä on tärkeää, että koulutetut poliisit
+saadaan töihin. 
+1 Pääministeri Mari Kiviniemi (esittelypu-
+heenvuoro): Arvoisa puhemies, ärade talman!
+Eduskunta saa tässä keskustelussa tiedonannon
+uuden hallituksen ohjelmasta perustuslain mu-
+kaisesti.Hallituksen vaihtuminen kesken vaalikauden-
+han on nykyisin takavuosia harvinaisempaa. Hal-
+lituksen muodostamisprosessi sujui ripeästi ja
+eteni perustuslain mukaisesti eduskunnan joh-
+dolla. Hallituspuolueilla oli tahto jatkaa hallitus-
+yhteistyötä. 19.29 Antero Laukkanen kd: Arvoisa rouva 
+puhemies! Hallitus neuvotteli nopeassa ajassa ohjelmaju-
+listuksesta. Hallitus keskittyy työssään siihen,
+kuinka Suomi saadaan ehyenä kasvun, työllisyy-
+den ja kestävyyden uralle. Uusi hallitus jatkaa
+täysin harkitusti edeltäjänsä päätösten toteutta-
+mista. 
+
+Jatkuvuutta korostaa myös se, että salkku-
+jako säilyi ennallaan. 
+
+Ainoastaan pääministerin
+vaihdoksesta aiheutui muutos ministerikokoon-
+panoon.
+
+Vaikka hallituksen toimikausi on normaalia
+lyhyempi, työskentelemme täysivaltaisesti, ky-
+kenemme ratkaisuihin ja teemme kestäviä ratkai-
+suja koko Suomen parhaaksi.
+3 Pekka  Ravi kok (ryhmäpuheenvuoro):  Ar-
+voisa herra puhemies!
+Hallitus on tuoreessa oh-
+jelmassaan sitoutunut toimiin yhtenäisen Suo-
+men ja kestävän hyvinvointiyhteiskunnan puo-
+lesta. 
+
+Hallitus edistää monin toimin talouden va-
+kautta, kestävän kasvun edellytyksiä, tasa-arvoa
+ja yhteiskunnallista eheyttä. 
+
+Hallituksen päämää-
+ränä on, ettei yksikään suomalainen jää hyvin-
+voinnista osattomaksi.
+
+Nämä tavoitteet ovat kokoomuksen eduskun-
+taryhmälle erittäin keskeisiä.
+
+Me sitoudumme
+omalta osaltamme pitkäjänteiseen työhön tule-
+vaisuuden suuriin haasteisiin vastaamiseksi. 
+
+Nyt
+jos koskaan suomalaisessa yhteiskunnassa tarvi-
+taan laajaa yhteistyöhenkeä.
+Sillä pystymme vas-
+taamaan globaalitalouden tuomiin uudistuspai-
+neisiin ja jaamme taantuman kustannuksia mah-
+dollisimman oikeudenmukaisesti.
+
+Arvoisa puhemies! 
+
+Kansainvälinen finanssi-
+kriisi jälkiseuraamuksineen osoitti, että Suomen
+talouden kehitys on voimakkaasti riippuvainen
+kansainvälisen talouden muutoksista. 
+
+Taantuma
+iski maahamme erittäin kovalla voimalla, sen
+seurauksia on kuitenkin määrätietoisella elvytyk-
+sellä onnistuttu onnistuneesti lievittämään. 
+
+Edel-
+linen, Matti Vanhasen toinen hallitus on kyennyt
+merkittävästi hidastamaan työttömyyden kasvua
+ja edistämään maassamme taloudellista toime-
+liaisuutta.
+Eurooppalaisten rahoitusmarkkinoiden va-
+kauttamiseksi tehdyt päätökset ovat olleet vaikei-
+ta, mutta ehdottomasti Suomen ja suomalaisten
+kannalta välttämättömiä. 
+
+Emme nytkään ole tur-
+vassa rahoitusmarkkinoiden epävakaudelta, mut-
+ta useiden euromaiden laajat toimet omien ta-
+louksiensa tervehdyttämiseksi sekä esimerkiksi
+pankkien stressitestien julkaisu ovat askeleita
+kohti vakautta ja luottamusta.
+Arvoisa puhemies! 
+Hallituksen ohjelmassa linjataan kes-
+keiset elementit tasapainon saavuttamiseksi. 
+
+Ny-
+kyistä pidemmät työurat, julkisen sektorin tuotta-
+vuuden kasvattaminen ja talouskasvua vahvista-
+vat uudistukset ovat positiivisia ja kestäviä kei-
+PTK 72/2010 vp
+72/1/4
+11
+noja, 
+joilla 
+taloutta 
+voidaan 
+vauhdittaa.
+Suomalaisten arjen kannalta epämiellyttävim-
+mät keinot, veronkorotukset ja menoleikkaukset,
+on myöskin mainittava. 
+
+Kokoomuksen eduskun-
+taryhmä lähtee siitä, että sen mielestä etusijalle
+on ehdottomasti asetettava myönteiset, kasvua li-
+säävät, hyvinvointiyhteiskunnan pohjaa vahvis-
+tavat keinot.
+
+Tuottavuuden parantamisessa ja työurien pi-
+dentämisessä keskeisimmässä asemassa on hen-
+kilöstön hyvinvointi. 
+
+Hyvinvoiva työyhteisö
+edellyttää hyvää henkilöstöpolitiikkaa, moti-
+voivaa johtamista ja ennen kaikkea koko henki-
+löstön osaamisen ja asiantuntemuksen hyödyntä-
+mistä työn kehittämisessä. 
+
+Tästä löytyy myöskin
+konkreettista näyttöä.
+Otan yhden esimerkin.
+
+Kun nyttemmin Kemiönsaareen liittynyt
+Dragsfjärdin kunta kaksikymmenkertaisti panos-
+tukset työhyvinvointiin, tapahtui merkittäviä
+muutoksia. 
+
+Työtyytyväisyys parani, työkyvyn
+ikävaihtelu miltei katosi, sairauspoissaolot puo-
+littuivat ja työkyvyttömyyseläkkeiden määrä vä-
+heni. 
+
+Saavutettiin juuri niitä tavoitteita, joihin
+hallitus tässä ohjelmassaan pyrkii.
+
+Arvoisa puhemies! 
+
+Työelämän kehittämises-
+sä tarvitaan vahvaa yhteistyötä. 
+
+Hallituksen oh-
+jelmassa linjataankin, että työelämän laatua poh-
+tineen Ahtelan työryhmän esityksiä toteutetaan
+ja eläkejärjestelmän kehittämisvaihtoehtoja val-
+mistellaan kolmikantaisesti.
+Työmarkkinajärjes-
+töjen kanssa yhteistyössä valmistellaan myös esi-
+tyksiä vanhemmuuden kustannusten jakamisesta
+sekä 
+perhevapaajärjestelmän 
+kehittämisestä.
+
+Näin kehitetään oikealla tavalla työelämän tasa-
+arvoa. 
+
+Tätä tavoitetta ja näitä toimenpiteitä ko-
+koomuksen eduskuntaryhmä pitää erittäin tärkei-
+nä. 
+
+
+
+
+4 Jukka Gustafsson sd (ryhmäpuheenvuoro):
+Arvoisa puhemies!
+Neuvottelutulos hallitusoh-
+jelmasta muistuttaa enemmän keskikokoisen
+eduskuntaryhmän kesäkokouksen julkilausumaa
+kuin vakavasti tehtyä hallitusohjelman tarkistus-
+Keskiviikkona 23.6.2010
+12
+72/1/4
+ta. 
+
+Paperissa on suloisesti sekaisin lyhyen ja pi-
+demmän aikavälin ohjelmatavoitteet. 
+
+Ohjelma ei
+anna toivoa mistään loppukiristä, pikemminkin
+se vahvistaa uskoa, että edessämme on 298 päi-
+vää päättämättömyyttä. 
+
+Hallitus siirtää tärkeitä
+päätöksiä tulevalle hallitukselle. 
+
+Puheenjohtaja
+Kiviniemen olisi pitänyt rohkeasti tarkistaa halli-
+tuksen linjaa ja korjata hallituksen virheitä.
+
+Tyytyväisiä olemme kuitenkin muutamasta
+uudesta aloitteesta. 
+
+Sosialidemokraatit ovat ol-
+leet aktiivisia tuomaan bruttokansantuotekäsit-
+teen rinnalle ja tilalle monipuolisemmin kansa-
+laisten hyvinvointia ja ympäristön tilaa kuvaavia
+mittareita.
+Johtuikohan viime viikon kyselytunnin vah-
+vasta keskustelusta, että hallitus lupaa aktivoitua
+harmaan talouden suitsimisessa, muun muassa
+lähetettyjen työntekijöiden verovastuun tehosta-
+misessa ja tilaajavastuulain parantamisessa?
+
+Hyvä näin. 
+
+Hallitus on epäonnistunut vakavalla tavalla
+työllisyyspolitiikassa. 
+
+Lupaus 72 prosentin työl-
+lisyysasteesta vaalikauden lopulla on karannut
+käsistä. 
+
+Monet asiantuntijat ovat arvostelleet,
+myös Oecd, hallituksen politiikan painottuneen
+aivan liikaa veroelvytykseen, mikä on osoittautu-
+nut tehottomaksi. 
+
+Työllisyyden parantamiseen
+tähtäävät toimet ovat olleet alimitoitettuja ja tul-
+leet myöhässä.
+Niinpä joka viides nuori on ilman
+työtä, ja työvoimapolitiikan toimien osalta Suo-
+mi on Euroopassa jumbosijoilla.
+
+Hallitus on epäonnistunut vakavalla tavalla
+köyhyyden vähentämisessä. 
+
+Myönteiset isyys- ja
+äitiyspäivärahojen korotukset eivät muuta sitä to-
+siasiaa, että lähtötilanteessa Suomen historian
+rikkain hallitus jätti tekemättä työmarkkinatuen
+ja perusturvan tasokorotukset. 
+
+Lapsi- ja yksin-
+huoltajaperheiden köyhyys on lisääntynyt, aivan
+kuten kokoomuksen ja Rkp:n taustavaikuttaja
+Wahlroos onkin toivonut.
+
+Sata-komitean jäsenen Heikki Hiilamon mu-
+kaan perusturvan parannusehdotukset pohjim-
+miltaan kaatuivat siihen, että sosiaalimenot on
+haluttu painaa mahdollisimman pieniksi, jotta
+verojen alentamista ja nimenomaan ylimpien tu-
+loluokkien veroprosenttien alentamista voitai-
+siin jatkaa.
+Lapsiin ja vanhuksiin
+kohdistuneiden leikkausten välttämiseksi olisi
+tarvittu lisätukea valtiolta.
+Hallitus on myös veropolitiikassaan surutta
+rapauttanut veropohjaa ja tehnyt sen hyvin luok-
+katietoisesti.
+Se on antanut paljon suurituloisille
+ja vähän pienituloisille.
+
+Hallitus on vakavalla tavalla heikentänyt kun-
+tapalveluja ja jakanut suomalaisia kahteen lei-
+riin.
+Arvoisa puhemies! 
+
+Sosialidemokraattien 12
+vuotta kestäneellä hallituskaudella työllisyys pa-
+rani nopeasti. 
+
+Maamme nousi niin koulutukses-
+sa, talouskasvussa kuin jopa onnellisuustutki-
+muksissa Euroopan ja maailman kärkeen.
+ 
+Tämä perustui
+sosialidemokraattien tavoitteelliseen yhteiskun-
+ta- ja työllisyyspolitiikkaan ja laajaan työmarkki-
+nayhteistyöhön.
+
+Nyt monet näistä saavutuksista on menetetty,
+mutta ei lopullisesti. 
+
+Suomi tarvitsee uutta kasvu-
+politiikkaa ja aidon yhteisvastuun.
+Professori
+Kari Uusikylä kiteyttää Evalle tekemässään "Hy-
+vä työ — paha työ" -raportissa hyvän työn edel-
+lytykset kolmeen pääkohtaan: työ on tehtävä
+mahdollisimman hyvin, siihen tulee sitoutua, ja
+kaiken aikaa on muistettava eettiset seikat.
+
+Sosialidemokraatit sitoutuvat hyvän työn
+edellytysten rakentamiseen. 
+
+Tavoitteen on olta-
+va 75 prosentin työllisyysaste vuoteen 2020
+mennessä. 
+
+Se edellyttää työhönosallistumisas-
+teen lisäämistä kaikissa ikäryhmissä. 
+
+Hallitus on
+kompuroinut ja sukset ovat lipsuneet milloin
+minnekin työuran pidentämiseen tähtäävissä pyr-
+kimyksissä. 
+
+Nopeimmat mahdollisuudet edetä
+ovat työuran alkupäässä ja koko työuran inhimil-
+listämisessä.
+Työllisyystavoitteen saavuttaminen vaatii uut-
+ta kasvupolitiikkaa. 
+
+Erityinen paino tulee asettaa
+sellaiseen tuotantoon ja teollisuuden jalostusar-
+von nostamiseen, joka luo työpaikkoja ja tähtää
+ympäristön kannalta myönteiseen kasvuun. 
+
+Suo-
+mi tarvitsee uutta työtä ja vahvaa vientiteolli-
+suutta. 
+
+Laadukas ja pitkäjänteisesti rahoitettu pe-
+rustutkimus muodostaa pohjan onnistuneelle in-
+novaatiopolitiikalle.
+
+4 Eva Biaudet r: Arvoisa puhemies!
+Ihmisten
+välisiä eroja toimeentulossa tuleekin tasoittaa.
+Kiviniemen ohjelmateksti on löysää raha-
+markkinalainsäädännön osalta. 
+
+Rahoituslaitos-
+ten on osallistuttava pankkikriisin laskun maksa-
+miseen entistä enemmän veronmaksajien sijaan.
+1 Ismo Soukola ps: Arvoisa puhemies! 
+
+Tämä
+lakiesitys on tervetullut kädenojennus harmaan
+talouden toimijoille ja talousrikoksia tehtailevil-
+le tahoille. 
+
+Samalla se on läimäytys avokämme-
+nellä harmaata taloutta vastaan taisteleville. 
+
+Suo-
+malaisten veronkierto kansainvälisissä sijoitus-
+yhtiöissä tulee entistä helpommaksi, mutta sa-
+malla vaikeutetaan verottajan tiedonhankintaa
+tässä 
+moniportaisessa 
+hallintojärjestelmässä.
+
+Omistuksen salaaminen antaa erinomaiset mah-
+dollisuudet korruptiorikoksiin ja rahanpesuun.
+
+Kustannussäästöt ovat varsin vähäisiä haittoihin
+nähden, noin 2 miljoonaa euroa per vuosi. 
+
+Kui-
+tenkin järjestelmä suosisi suursijoittajia, sen si-
+jaan piensijoittajille siitä koituisi tässä asiassa
+enemmän kustannuksia.
+
+Monet puolueet ovat harmaan talouden taiste-
+lun ottaneet puolueohjelmaansa mukaan, ja tämä
+lakimuutos kyllä sotii kyseisiä julistuksia vas-
+taan.
+
+
+1 Emma Kari vihr:  Arvoisa puhe-
+mies! 
+
+Ammattikorkeakouluopiskelijoiden epäta-
+sa-arvoinen terveydenhuolto suhteessa perintei-
+siin yliopisto-opiskelijoihin on ollut jo pitkään
+tunnettu ongelma. 
+
+Perinteisten yliopistojen opis-
+kelijat voivat käyttää Suomen ylioppilaskuntien
+liiton perustaman Ylioppilaiden terveydenhoito-
+säätiön palveluja, kun taas noin 120 000 ammat-
+tikorkeakouluopiskelijan terveyspalvelut ovat
+opiskelupaikkakuntien vastuulla.
+
+Erot ammattikorkeakouluissa tarjottavien ter-
+veyspalvelujen laadukkuudessa ja laajuudessa
+ovat välillä erittäin suuria asettaen ammattikor-
+keakouluopiskelijat usein huonompaan asemaan
+suhteessa muihin opiskelijaryhmiin. 
+
+Tästä syys-
+tä meitä poliittisia päättäjiä on patisteltu jo pi-
+temmän aikaa tämän epäkohdan kuntoon laitta-
+miseksi.
+
+Nyt käsiteltävänä oleva hallituksen esitys sai-
+rausvakuutuslain väliaikaisesta muuttamisesta
+on viimein ensimmäinen konkreettinen osa am-
+mattikorkeakoululaisten terveydenhuollon tasa-
+arvoa parantavaa pakettia. 
+
+Esityksellä mahdollis-
+tetaan ammattikorkeakoululaisille suunnattu ter-
+veydenhuollon kokeilu, jossa selvitetään ammat-
+tikorkeakouluopiskelijoiden opiskeluterveyden-
+huollon järjestämistä YTHS:n mallin mukaises-
+ti.
+Kokeilusta saatavien tulosten perusteella on
+mahdollista lopulta tehdä päätös myös siitä, mi-
+ten kattavat ja laadukkaat opiskeluterveyden-
+huollon palvelut voidaan taata ammattikorkea-
+kouluopiskelijoille. 
+
+Kokeilu on tarkoitus aloittaa
+vuoden 2011 syyslukukauden alkaessa ja sen on
+tarkoitus päättyä vuoden 2014 heinäkuun lop-
+puun mennessä. 
+
+Kokeilu toteutetaan Lappeen-
+rannan sekä Seinäjoen ammattikorkeakouluissa.
+Ennen vaaleja yhteiskun-
+nassa käytiin keskustelua siitä, miten suomalais-
+ten työuria voidaan pidentää mielekkäällä taval-
+la. 
+
+Tässä keskustelussa yksi useimmin kuultu re-
+septi oli toive saada Pisa-tutkimuksessa loista-
+neet nuoremme nopeasti jatkokoulutukseen ja
+sen jälkeen heti työelämään. 
+
+Yksi, joskin välilli-
+nen keino tämän tavoitteen saavuttamiseksi on
+taata laadukas ja ennalta ehkäisevä terveyden-
+huolto kaikille opiskelijoille.
+2 Aila Paloniemi kesk:  Arvoisa puhemies!
+
+Olen erittäin tyytyväinen siihen, että nimen-
+omaan tähän ammattikorkeakouluopiskelijoiden
+terveydenhoidon järjestämiseen, sen pilottiko-
+keiluun, saatiin tavanomaista aikaisemmin rahat.
+
+Nimittäin viime kauden valtiovarainvaliokunta
+nämä rahat, 750 000 euroa, ensimmäisen vuoden
+pilottikokeilun kustannuksiin määritteli ja lisäsi,
+joten eduskunta teki erittäin hyvää työtä sen
+eteen, että vihdoinkin saadaan tämä asia järjes-
+tykseen.
+
+
+2 Raija Vahasalo kok (vastauspuheenvuoro):
+Arvoisa puhemies! 
+
+Tätä lakia on todella kauan
+odotettu, ja monet ministerit ovat luvanneetkin
+sen jo aikaisemmin tuoda, mutta ei ole vain saatu
+aikaan. 
+
+On varsin erikoista, että meillä, maail-
+man koulutuksen suurvallalla, ei ole ollut sitten
+rahkeita tehdä tämän parempaa lakiesitystä —
+tässä on paljon puutteitakin, kenttä on vähän pet-
+tynyt tähän lakiin. 
+
+Mutta muistetaan, että tämä on
+sen ensimmäinen vaihe ja tämä prosessi sitten
+jatkuu tulevaisuudessa.
+
+Itse olen vähän harmissani siitä, että kun tä-
+män takana, tämän koko lainsäädännön idea, oli
+se hallinnon siirto, se, että sisältö muuttuu, ja
+siellä taustalla on varhaiskasvatustiede, niin tämä
+tiede ei niin vahvasti näy tässä lainsäädännössä ja
+se sisältö siinä. 
+
+Sen takia haluaisinkin, että kun
+jatkossa tätä työstetään ja valiokunnassa meillä
+tätä käsitellään, niin mietittäisiin ja pohdittaisiin,
+löytyisikö se tiedekin sieltä taustalta.
+3 Pertti Hemmilä kok: Arvoisa 
+puhemies!
+
+Tästä jäteverolaista puhuttiin lyhyesti jo valtio-
+varainvaliokunnassa, ja äsken valiokunnan pu-
+heenjohtaja jo kuvasi sen ilmapiirin, mikä valio-
+kunnassa oli, kun tästä keskusteltiin. 
+
+Meillä ni-
+menomaan puhutaan paljon hallinnon purkami-
+sesta ja byrokratian vähentämisestä, mutta sitten
+me kuitenkin täällä eduskunnassa säädämme
+tämmöisiä lakeja, joissa selvästi todellakin sitä
+turhaa byrokratiaa ja turhaa hallinnointia lisä-
+tään. 
+
+Tämmöistä toimintaa ei voi millään hyväk-
+syä, ja uskon, että tämä osaltaan lisää sitä epä-
+luottamusta poliittista päätöksentekokoneistoa
+kohtaan.
+3 Inkeri Kerola kesk 
+(vastauspuheenvuoro):
+Arvoisa herra puhemies! 
+
+On tärkeää, että tässä-
+kin laissa mennään lapsen etu edellä elikkä hae-
+taan niitä ratkaisuja ja niitä malleja, jotka palve-
+levat lapsen etua ja hänen kehittymistään, sitä
+laadukasta varhaiskasvatusta. 
+
+Keskustalle on ol-
+lut tärkeää se, että meillä on luotuna maahan mal-
+li, joka voi toimia kaikilla paikkakunnilla, kaikis-
+sa Suomen kolkissa, niin että lapset voivat sen
+piiriin osallistua. 
+
+On tärkeää myös se, että meillä
+annetaan perheille valinnan mahdollisuus, valin-
+nan mahdollisuus siinä, kuinka he haluavat lap-
+sensa hoidettavan. 
+
+Siksi on myös tärkeää, että
+tämä laki mahdollistaa sellaiset mallit. 
+
+Nyt ky-
+syn ministeriltä näihin edellisiin kannanottoihin
+liittyen: onko tästä laista luotu sellainen, joka
+palvelee koko Suomea samalla tavalla laaduk-
+kaana varhaiskasvatuksena?
+48 Mirja Vehkaperä kesk: Arvoisa puhemies!
+
+Hallituksen harjoittama perhepolitiikka on koko
+vaalikauden aikana ollut poukkoilevaa. 
+
+Tästä
+esimerkkeinä voidaan sanoa viimeiset päätökset
+lapsilisäleikkauksesta ja lapsiperheiden ostovoi-
+man heikentämisestä monien verojen ja maksu-
+jen korotusten myötä. 
+
+Lisäksi hallituskauden ai-
+kana on tehty liuta erilaisia esityksiä ja päätök-
+siä, jotka ovat koskeneet lapsia ja lapsiperheitä:
+esikoulun pakollisuus on yksi niistä ehkä suurim-
+mista, kotihoidon tuen kiintiöittäminen ja sen
+tuen leikkaaminen tätä myötä, subjektiivisen päi-
+vähoito-oikeuden rajaaminen, joka edelleenkin
+on auki.
+
+Varhaiskasvatuslain ensimmäinen vaihe on
+nyt siis salissa. 
+
+Viimeinen päivähoitolaki on vuo-
+delta 1974, ja totta vieköön kaikki me tiedämme,
+että lakia pitää ajantasaistaa, mutta on ihmeellis-
+tä, että hallitus ja ministeri on pilkkonut tämän
+nyt useampaan vaiheeseen ja tällä vaalikaudella
+pystymme käsittelemään vain tätä ensimmäistä,
+ja pidän sitä hyvin teknisenä.
+
+Ainoastaan termejä muuttamalla emme päivä-
+hoidosta saa yhdessä päivässä ja yössä varhais-
+kasvatusta. 
+
+On tärkeää, että pureudumme siihen,
+mitä laadukas varhaiskasvatus on, mitkä ovat sen
+sisältöjä ja pedagogisia päämääriä ja otteita.
+
+Tämä keskustelu toivottavasti käydään valiokun-
+takäsittelyssä.
+
+Ryhmäkokojen säätäminen nyt lailla, kun se
+ennen oli asetuksilla ja kuntien päätösten piiris-
+sä, on myöskin kyseenalainen. 
+
+On tärkeää ottaa
+alueelliset näkökulmat esille mutta myöskin las-
+ten oma tarve ja edellytykset.
+
+Arvoisa puhemies! 
+
+Laadittavat varhaiskasva-
+tussuunnitelmat, siis valtakunnalliset ja henkilö-
+kohtaisesti jokaiselle lapselle, eivät ole sinänsä
+uusia. 
+
+Jokaisessa kunnassa tai ainakin suurim-
+massa osassa, oletan, on ollut jo varhaiskasvatus-
+suunnitelma, jota on pyritty noudattamaan. 
+
+Meil-
+läkin kotona on tehty lapselleni varhaiskasvatus-
+suunnitelma jo aika päiviä sitten ja suunnitelma
+laaditaan noin 90 prosentille jo tälläkin hetkellä,
+joten tämä ei mikään erityisen uusi asia ole.
+49 Eeva-Johanna Eloranta sd: Arvoisa puhe-
+mies! 
+
+Vuodelta 1973 peräisin olevan päivähoito-
+lain uudistamiselle on ollut kova tarve. 
+
+Suoma-
+laisen päiväkodin asema muuttui vuonna 1982,
+kun päiväkodit siirrettiin sosiaalihallinnon alai-
+suuteen. 
+
+Päätehtäväksi tuli tuolloin kotikasva-
+tuksen tukeminen. 
+
+Samalla varhais- ja leikkipe-
+dagogiikan kehittäminen tyrehtyi. 
+
+On hienoa,
+että varhaiskasvatuslakiesitys on saatu viimein
+eduskunnan käsittelyyn, ja samalla toivottavasti
+varhaiskasvatuspedagogiikka saa sille kuuluvan
+arvon. 
+
+Varhaiskasvatuksella vahvistetaan koulu-
+tuksellista ja yhteiskunnallista tasa-arvoa sekä
+elinikäistä oppimista.
+Niin kuin täällä on jo tä-
+nään todettu, OECD:n mukaan euron sijoitus
+varhaiskasvatukseen tuottaa 7 euroa. 
+
+Eli mikään
+muu kasvatus ja koulutus ei hyödytä lasta ja tuo-
+ta niin paljon kuin nimenomaan varhaiskasvatus. 
+
+Yksi merkittävimmistä uudistuksista on, että
+lakiesityksen myötä varhaiskasvatussuunnitel-
+man perusteista tulee sitova normi. 
+
+Suunnitel-
+man sisältöön ja laatuun kiinnitetään siis jatkos-
+sa suuri huomio ihan jokaisessa päivähoitoyksi-
+kössä. 
+
+Ongelmana on ollut, että varhaiskasvatuk-
+sen laatu vaihtelee tällä hetkellä liikaa, sillä päi-
+väkodeissa on suuri vapaus tehdä tai jättää teke-
+mättä. 
+
+Tarvitaan enemmän kuin lepo, ruoka ja
+ulkoilu. 
+
+
+
+
+
+
+
+1 Mika Niikko ps:  Arvoisa herra puhemies! 
+
+Hyvät
+edustajakollegat! 
+
+Moni suomalainen on viime
+vuosien aikana pohtinut, meneekö Suomella hy-
+vin vai huonosti, (Eduskunnasta: Hyvin huonos-
+ti!) sillä viestit ja faktat ovat osin ristiriitaisen
+tuntuisia. 
+
+
+
+
+
+
+
+
+
+1 Merja Kyllönen vas: Arvoisa herra puhemies!
+
+Tässä hallituksen esityksessä ehdotetaan muutet-
+tavaksi terveydenhuollon valtakunnallisia säh-
+köisiä tietojärjestelmiä ja sähköistä lääkemäärä-
+ystä koskevia lakeja.
+Tässä puheenvuorossani käsittelen itse omal-
+le toimialalleni kuuluvaa lakiesitystä sosiaali- ja
+terveydenhuollon asiakastietojen sähköisestä kä-
+sittelystä annetun lain muuttamiseksi, ja ministe-
+ri Risikko jatkaa sitten täsmennyksillä.
+
+Terveydenhuollossa toteutetaan parhaillaan
+valtakunnallisia tietojärjestelmäpalveluja. 
+
+Nämä
+palvelut koostuvat sähköisestä lääkemääräykses-
+tä, valtakunnallisesta sähköisestä potilasasiakir-
+ja-arkistosta sekä niihin liittyvistä lääketietokan-
+nasta, lääkemääräys- ja potilastietojen katselusta
+ja potilaan tiedonhallintapalvelusta. 
+
+Nämä siis
+yhdessä muodostavat Kanta-palvelut. 
+
+Nämä
+Kanta-palvelut otetaan käyttöön vaiheittain lain-
+säädännön ja käyttöönottosuunnitelmien mukai-
+sesti.
+
+Valtakunnallisiin palveluihin sisältyvä kansa-
+laisen käyttöliittymä antaa meille terveydenhuol-
+lon asiakkaille mahdollisuuden nähdä esimerkik-
+si kotitietokoneeltamme ajantasaiset tiedot laadi-
+tuista sähköisistä lääkemääräyksistä ja myös kes-
+keisistä muista potilastiedoista.
+54 Hanna-Leena Hemming kok:  Puhemies!
+
+Ministeri mainitsi äsken vastauksessaan moder-
+nit hankinnat. 
+
+Puolustukseen käytettävä teknolo-
+gia yhtäältä kehittyy huimaa vauhtia. 
+
+Valitetta-
+vasti sen hinta myöskin nousee samalla vähin-
+tään eksponentiaalisesti.
+Mitä mahdollisuuksia on Suomella ja onko
+ylipäätään mahdollisuuksia tehdä yhteistyötä
+Pohjoismaiden kanssa näissä materiaalihankin-
+noissa, ja löytyykö siitä apua sitten siihen resurs-
+sipulaan, mikä Suomessa mahdollisesti on?
+4 Pentti Tiusanen vas:  Arvoisa herra puhe-
+mies! 
+
+Yhtyä sopii tähän hyvään esitykseen, myös
+sosiaali- ja terveysvaliokunnan mietintöön. 
+
+To-
+sin olen samaa mieltä, että tämä perustuslakiva-
+liokunnan arvelu tässä välissä, että pitää kuiten-
+kin pyrkiä selvittämään vainajan omaa elinai-
+kaista käsitystä elimiensä, kudoksiensa ja solu-
+jensa irrottamisesta, on hiukan vaikeata. 
+
+Ensin-
+näkin se tietysti on käytännössä vaikeata, mutta
+sen lisäksi se sitten mahdollisesti hidastaa tätä
+elimen siirron toteuttamista. 
+Tietysti voidaan käyttää teknisiä apuneu-
+voja siinä, että pyritään pidentämään sitä aikaa,
+joka elinten irrotuksessa on mahdollista. 
+
+Mutta
+se aika on joka tapauksessa lopulta aina rajalli-
+nen. 
+Tämä 9 § on nyt aika konstikas.
+14.08 Veronika Honkasalo vas: Arvoisa puhemies! 
+
+Tässä ollaan todellakin siirtymässä nyt hy-
+vään suuntaan ja yhtenäistämässä käytäntöjä. 
+
+Nykyäänhän jo passin osalta on voitu toimia
+niin, että sitä voidaan hakea sähköisesti ja se voidaan toimittaa sitten suoratoimituksena
+R-kioskiin, ja tässä lakiuudistuksessa ollaan tätä menettelyä selkeyttämässä myös henkilö-
+kortin osalta siten, että nämä kaksi rinnasteista asiakirjaa eivät ole toisistaan poikkeavia.
+
+Ja tärkeää on myös, että nämä henkilökortin osalta nyt tapahtuvat uudistukset palvelevat
+nykyistä paremmin tätä ulkomaalaisten henkilöiden suurta määrää, mikä Suomessa on.
+Pöytäkirja PTK 36/2016 vp
+13.20 Anders Adlercreutz r: Arvoisa puheenjohtaja! 
+
+Täällä on esitetty paljon kysymyksiä, mut-
+ta ehkä tässä SDP:n vaihtoehtobudjetissa kiteytyy se olennainen vastaus. 
+
+Tässä on meidän
+yhtälömme, joka ottaa vähemmän velkaa kuin hallitus ottaa, joka tekee veroratkaisut oi-
+keudenmukaisemmalla tavalla, laajentaa veropohjaa niin, että hyväosaisemmatkin osallis-
+Pöytäkirja PTK 85/2016 vp
+6
+tuisivat lamatalkoisiin ja vältettäisiin kaikista julmimmat leikkaukset, mitä hallitus nyt on
+tekemässä lapsiperheille, opiskelijoille, eläkkeensaajille, työttömille, pieniosaisimmille.
+
+Tämä on reilumpi, työllistävämpi vaihtoehto, ja se aika iso ero hallituksen talouspolitiik-
+kaan tässä on se, että tässä myös tehdään selkeitä esityksiä työllisyyden parantamiseksi,
+mitä muuten, puhemies, tästä budjettikirjasta edelleenkin löydän hyvin vähän.
+14.01 Pekka Haavisto vihr: Arvoisa rouva puhemies! 
+
+Eu-
+roopan poliisivirasto Europol perustettiin vuonna 1995.
+
+Täysimääräisesti se aloitti toimin-
+tansa vuonna 1999. 
+Tämän asetuksen neuvottelut on saatu val-
+miiksi, ja asetus tuli voimaan 13.6.2016. 
+
+Sitä sovelletaan kuitenkin vasta 1.5.2017 alkaen,
+lukuun ottamatta tiettyjä hallinnollisia säännöksiä, jotka ovat voimassa jo nyt.
+
+Nyt keskustelussa olevassa hallituksen lakiesityksessä on kyse Europol-asetusta täyden-
+tävistä kansallisista säännöksistä. 
+
+Niissä ei esitetä mitään, mikä ei olisi jo tällä hetkellä voi-
+massa, mutta koska Europol-asetus kumoaa olemassa olevat Europolia koskevat säännök-
+set, tulee kansalliset säännökset antaa uudelleen. 
+
+Laki tulisi voimaan myös 1.5.2017. 
+
+Lais-
+ta ei aiheudu merkittäviä taloudellisia vaikutuksia. 
+
+Sen vaikutukset viranomaisten toimin-
+taan ovat myös vähäiset.
+16.02 Anna Kontula vas: Arvoisa puhemies! 
+
+Suomen vahvuus on se, että olem-
+me yksi maailman tasa-arvoisimmista maista. 
+
+Eriarvoisuuden kielteiset vaikutukset ovat
+kuitenkin alkaneet näkymään myös meillä niin toimeentulo-, koulutus- kuin terveyserojen
+kasvuna.
+Tällä viikolla julkaistiin Sorsa-säätiön raportti, jossa professori Hiilamo käy läpi 12 eri
+reseptiä tuloerojen kaventamiseksi. 
+
+Suomessa on siirrytty pysyvästi aikaisempaa korkeam-
+pien tuloerojen ja suuremman eriarvoisuuden aikaan. 
+
+Köyhimmät ovat jääneet muista jäl-
+keen pitkäaikaistyöttömyyden ja sosiaaliturvaleikkausten vuoksi. 
+
+Jo varhaislapsuudesta kumpuaa eriarvoistumista, jos varhaiskasvatus ja lapsiperheitten
+palvelut ja taloudellinen tuki eivät ole kunnossa. 
+
+Eriarvoistuminen ei ole väistämättömyys
+ja talouskasvun seuraus, vaan siihen voidaan vaikuttaa politiikalla. 
+Arvoisa pääministeri, nyt kun hallituksella tulee kaksi vuotta täyteen ja on välitarkaste-
+lun paikka, miten te itse arvioisitte hallituksen onnistuneen eriarvoisuuden vähentymises-
+sä?
+17.44 Aila Paloniemi kesk: Arvoisa puhemies! 
+
+Vaalitarkkailu on oleellinen osa Etyjin
+yleiskokouksen toimintaa, kuten täällä on moneen kertaan todettu. 
+
+Tarkkailuraporteista
+käy ilmi niin myönteinen demokratiakehitys kuin demokratiakäsitteeseen liittyvät laajem-
+matkin ongelmat. 
+Vaalitoimituksen merkitys demokratian mittarina on mielestäni sisäistet-
+ty hyvin Etyjin jäsenmaissa.
+Vaalilainsäädäntöä on tarkistettu ja äänestäjillä on valinnan-
+varaa. 
+
+Mutta kysymys kuuluu: Onko hyvä vaalilainsäädäntö aina tae siitä, että oikeusval-
+tioperiaate toteutuu?
+
+Onko monipuoluejärjestelmä tae vaihtoehdoista? 
+
+Miten vallassa ole-
+vat tahot ja puolueet toimivat? 
+
+Entä miten taloudelliset seikat vaikuttavat?
+Tällä puheenvuorolla haluan sanoa, että on erittäin paljon avoimia kysymyksiä, joihin
+pitäisi paneutua. 
+
+Ja aivan oman haasteensa muodostavat tietenkin kansanäänestykset, ku-
+ten viimeksi Turkin kohdalla.
+14.05 Anna-Maja Henriksson r: Arvoisa herra puhemies! 
+
+Hyvä ministeri, hyvät edustajakol-
+legat ja muut paikallaolijat! 
+
+Aikuiskoulutustukihan otettiin Suomessa käyttöön vajaat 20
+vuotta sitten vuonna 2001. 
+
+Tämä ministeri Pekosen nyt esittelemä muutos on aikuiskoulu-
+tustuessa itse asiassa sen historian suurin ja monessa mielessä myös merkittävin.
+
+Viime vuonna 2019 tukea sai Suomessa 25 701 työntekijää tai yritystä, ja tämä oli itse
+asiassa aikuiskoulutustuen historian ennätys. 
+
+Näistä tuensaajista noin kolmannes oli nuo-
+ria, 30—34-vuotiaita, noin 25 prosenttia eli neljännes 35—39-vuotiaita, ja tästä vanhem-
+mat työntekijät ovat itse asiassa aika pienenä osana aikuiskoulutustuen käyttäjistä. 
+
+
+
+
+15.22 Li Andersson vas: Arvoisa puhemies! 
+
+Spontaani puheenvuoro. 
+Meillä on Suomessa karkeasti noin 280 000 yri-
+tystä ja muistini mukaan yksinyrittäjiä parisataatuhatta [Eduskunnasta: 180 000!] —
+180 000 yksinyrittäjää. 
+
+Se on merkittävä ryhmä suomalaisessa yhteiskunnassa. 
+
+Jos ajatel-
+laan, että siitä 180 000 yrittäjästä esimerkiksi 10 prosenttia innostuisi palkkaamaan sen en-
+simmäisen työntekijän sinne, niin puhutaan 18 000 ihmisen harppauksesta. 
+
+Ja se, että täl-
+laisen askeleen uskaltaa ottaa, on monesti siitä kiinni, että on sitä ajantasaista osaamista, on
+koulutusta, pystyy menemään sen oman laatikon ulkopuolelle ja näkee mahdollisuuksia ul-
+kopuolelle. 
+
+Koulutus, vertaistuki, yrittäjäjärjestöt, tämäntyyppiset ratkaisut, ovat niitä kei-
+noja, joilla ikään kuin pystyy haastamaan itseänsä, näkemään uusia mahdollisuuksia, käyt-
+tämään luovuutta.
+14.57 Thomas Blomqvist r: Arvoisa puhemies! 
+
+Todella tässä
+esityksessä on kysymys siitä, että nykyistä, jo voimassa olevaa rajoituslakia muutettaisiin
+tämän seikan osalta, että maailma on muuttunut: meillä on yhä enemmän sote-investointe-
+ja, jotka haluttaisiin toteuttaa nimenomaan yhtiömuodossa. 
+
+Kyllä eduskunnan kannalta on
+tärkeätä nähdä, että se saattaisi aiheuttaa sitten sen, että jos tähän ei puututa, niin nykyisen
+lainsäädännön mukaisesti saman investoinnin toteutustapa ratkaisisi tosiasiassa sen, sovel-
+letaanko tätä lupamenettelyä vai ei. 
+
+Tämä on näin yksinkertainen asia.
+Me esitämme nyt muutosta niin, että ei olisi merkitystä sillä, onko tässä lupamenettelys-
+sä kysymys hankkeesta, joka olisi kunnan tai kuntayhtymän itse toteuttama, vai olisiko täs-
+sä kysymys laajemmasta kuntien ja kuntayhtymien yksin tai yhdessä omistamasta yhtiös-
+tä, joka tämän investoinnin tekisi. 
+
+Tältä osin tämä on ollut epäkohta nyt viimeisinä aikoi-
+na, ja me haluamme, että kaikkia koskisi sama sääntely eikä se olisi riippuvainen siitä, mi-
+ten tämä investointi aiotaan toteuttaa. 
+
+Siltä osin olen ymmärtänyt tässä keskustelussa, että
+myös eduskunnan lähetekeskustelussa ollaan tultu siihen tulokseen, että on hyvä, että tä-
+hän näin nopeasti reagoidaan.
+Täällä keskustelussa on sitten, arvoisa puhemies, laajasti keskusteltu sote-uudistukses-
+ta, järjestöjen rahoituksesta ja monista muistakin tärkeistä asioista ja myös siitä perusfilo-
+sofiasta, kannatetaanko tätä rajoituslakia vai ei noin lähtökohtaisesti. 
+
+Tämä on siis voimas-
+sa olevaa lainsäädäntöä, mutta tähän tehtäisiin tämä äsken kuvailemani muutos.
+14.43 Peter Östman kd (vastauspuheenvuoro): Rouva puhemies! 
+
+Täällä on puhuttu len-
+tävästä lähdöstä ja siitä, että hallitus on käärinyt hihat ja ryhtynyt töihin. 
+
+Silloin on kuiten-
+Pöytäkirja PTK 21/2019 vp
+13
+kin hyvä muistaa, että me olemme jakamassa veronmaksajien rahoja, me emme jaa mei-
+dän omia rahojamme. 
+
+Se lentävä lähtö on kyllä osittain tullut siitä.
+Kuultiin, että perusväylänpidon määrärahatasoon osoitetaan 40 miljoonan euron koro-
+tus, ja tämä on hyvä asia. 
+
+Sen lisäksi olemme kuulleet myöskin listan liikennehankkeista,
+joihin hallitus panostaa. 
+
+Nekin ovat varmaan tärkeitä ja hyviä hankkeita.
+Yksi asia kuitenkin ihmetyttää. 
+
+
+
+
+
+16.51 Sampo Terho sin: Arvoisa puhemies! 
+
+Lähden ensin liikkeelle lisäbudjetin
+myönteisistä asioista.
+Erityisesti panostukset infran kehittämiseen ovat tärkeitä ja tervetulleita myös oman
+maakuntani, Satakunnan, osalta. 
+
+Meillä valtatie 8:n kunto on herättänyt huolta jo pitkään,
+erityisesti siitä syystä, että länsirannikolta puuttuu korvaava raideyhteys, joka taas mones-
+sa muussa maakunnassa täydentää tieinfran toimintaa. 
+
+Tämä puute korostaa meillä sitä,
+että tieyhteyden täytyy toimia kunnolla. 
+
+Satakunnassa liikennemäärät, erityisesti raskaan
+liikenteen osalta, ovat olleet vahvassa kasvussa ja kasvaneet muuta maata nopeammin.
+Kun valtatie 8:n kunto on erittäin heikko ja monet työssä käyvät ihmiset odottavat aamui-
+sin ja päivän päätteeksi autoletkoissa kotiin pääsyä, on selvää, että perusteet tien nopealle
+parantamiselle ovat hyvin painavat.
+Näin satakuntalaisena kansanedustajana ja liikennevaliokunnan jäsenenä olen hyvin
+iloinen nähdessäni, että pitkään työstetty hanke nyt valtatie 8:n nopeuttamiseksi on ottanut
+askeleen eteenpäin lisäbudjetissa, ja tästä kiitän lämpimästi erityisesti valtiovarainministe-
+ri Mika Lintilää. 
+
+30 miljoonan euron panostus on tärkeä askel eteenpäin Kasitien laittami-
+sessa kuntoon. 
+
+Ohituskaistaparin rakentaminen Eurajoen ja Luvian välille sekä Laitilan
+eteläpuolelle ovat oikeasuuntaisia toimia ja samoin nyt Mynämäelle tehtävät kehittämis-
+toimet. 
+Näistä satsauksista autoileva, työssä käyvä ihminen kiittää.
+5 Timo  Soini  sin:  Arvoisa herra puhemies!
+EU:n tukipaketit ovat kuin nigerialaiskirje, jo-
+honka nyt hallitus on vastannut ja rahaa menee.
+Mutta en puhu tällä kertaa siitä. 
+Puhun siitä,
+minkä takia hallitus, kun nyt puhutaan kasvusta
+ja työllisyydestä, ei puolusta suomalaista telak-
+kateollisuutta. 
+Minkä ihmeen takia te siellä halli-
+PTK 119/2012 vp
+119/1/6
+5
+tuksessa — ja nyt haluan vastauksen myös sosia-
+lidemokraateilta, vaikkapa työministeri Ihalai-
+selta — ette anna valtiontakausta STX-telakalle,
+kun Suomi tukee näiden tukipakettien kautta
+kreikkalaisia telakoita? 
+Mikä tässä voi olla, vai
+onko se niin, että he sitten vastapalvelukseksi
+ovat maksamatta veroja, vai mistä tässä on nyt
+sitten kysymys? 
+Ja vielä kaiken lisäksi Kreikas-
+sa, missä veroja voitaisiin maksaa, varustamotoi-
+minta ei maksa. 
+Eli milloin suomalainen duunari
+saa varmuuden siitä, että suomalaisia laivoja
+Suomessa voi suomalaisella työllä tehdä?
+20 Reijo Hongisto sin:  Arvoisa herra puhe-
+mies! 
+
+Jotta pysyisin päivän epistolassa, niin lie-
+nee syytä mainita muutamaan kertaan sana "eu-
+ro".
+Hirvi- ja karhukokeet maksoivat pari vuotta
+sitten 7 euroa, ja nyt hirvi- ja karhukoe maksaa
+20 euroa — tämä liitteenä siihen keskusteluun,
+että nämä hinnat ovat jatkuvasti nousseet. 
+
+Elikkä
+nyt puhutaan riistanhoitomaksun nostamisesta 3
+eurolla, niin tämä osoituksena, että myöskin
+kaikki muut metsästäjiä koskevat maksut ovat
+nousseet samalla kertaa. 
+
+Puhutaan pitkästä ket-
+justa. 
+
+Metsästäjä, joka maksaa riistanhoitomak-
+sun, on todennäköisesti maksanut ampuma-
+aseen hankkimisluvan, metsästysseuran jäsen-
+maksun ja eräitä muita maksuja vielä lisäksi.
+Elikkä tämä 3 euron korotus saattaa tuntua pie-
+neltä, mutta kun otetaan kaikki nämä vuosittaiset
+maksut huomioon, niin puhutaan suuresta sum-
+masta.
+Arvoisa herra puhemies! 
+
+On käytetty hyviä
+puheenvuoroja muun muassa suurpetopolitiikas-
+ta. 
+
+Edustaja Nylund tuossa totesi, kuinka kauan
+ihminen on metsästänut, niin minä rohkenen
+väittää, että ihminen on metsästänyt niin kauan
+kuin ihminen on täällä maapallolla elänyt.
+
+Eli en-
+simmäinen tapa ja keino hankkia ravintoa oli ot-
+taa sitä luonnosta, syötiin toki kasviksia mutta
+käytettiin myöskin lihaa, valkuaista, ravinnoksi,
+ja sitä saatiin ainoastaan metsästämällä. 
+
+Metsäs-
+täminen on kuulunut suomalaiseen ja muuhun-
+kin yhteiskuntaan aikojen alusta, eikä sitä harras-
+tusta ole syytä hävetä eikä muutenkaan pitää pii-
+lossa.
+5 Jussi Halla-aho ps (ryhmäpuheenvuoro):  Ar-
+voisa puhemies! 
+Olemme ajautumassa kansalli-
+seen kriisiin. 
+Kataisen hallituksen ohjelma on en-
+simmäisestä päivästä alkaen perustunut liian op-
+timistisiin talouslukuihin. 
+
+Hallitusohjelman kes-
+keisimmät tavoitteet alijäämästä ja velkasuhteen
+taittumisesta eivät tällä menolla toteudu. 
+
+Välttä-
+mättömien päätösten tekemistä on siirretty eteen-
+päin. 
+
+Nyt ne ovat edessä. 
+
+Hallituksen toimintaky-
+ky mitataan alkuvuodesta. 
+
+Tässä ei nyt retoriik-
+ka auta.
+Karua kieltä synkästä tilanteesta kertoo yritys-
+ten turvautuminen irtisanomisiin lomautusten si-
+jaan. 
+
+Usko pidemmän ajan näkymään on surkea.
+Suomalaiset ovat kuitenkin parhaimmillaan sel-
+viytyjiä. 
+
+Nyt tarvitaan yhteen hiileen puhaltamis-
+ta. 
+
+Jokaisen meistä on tultava ulos poteroistam-
+me tilanteen ratkaisemiseksi.
+Keskustan eduskuntaryhmä tuo tämän viikon
+aikana yksityiskohtaisen budjettivaihtoehdon
+pääluokittain keskusteluun. 
+
+Yhden vuoden bud-
+jetilla ei kuitenkaan ratkaista talouden isoa ku-
+vaa. 
+
+Hallitus on haastanut oppositiota keskuste-
+luun tästä. 
+
+Siksi keskityn puheessani isoon ku-
+vaan.
+Tarvitsemme ensinnäkin rohkeita toimenpitei-
+tä, jotka luovat vankan perustan kasvulle, yrittä-
+jyydelle ja työllisyydelle, ja toiseksi rakenteelli-
+sia miljardiluokan uudistuksia, jotka oikaisevat
+talouden tasapainoa ja poistavat turhia norme-
+ja. 
+
+Kolmanneksi tarvitsemme arvokeskustelua
+omasta vastuusta sekä toisistamme välittämistä.
+Meidän on myös opittava arvostamaan ikäänty-
+vää väestöä voimavarana.
+
+Suomi nousee yrittä-
+jyydellä, työnteolla ja välittämisellä.
+68 Päivi Räsänen kd (vastauspuheen-
+vuoro): Arvoisa puhemies!
+
+Perussuomalaisten
+pokka pitää eurokriisillä ratsastamisessa. 
+
+On
+helppo väittää, että taloutemme olisi tasapainos-
+sa, jos olisimme laittaneet sen kuuluisan piikin
+kiinni. 
+
+On kuitenkin rehellistä myös kertoa kan-
+salaisille se, millainen lama ja julkisen talouden
+leikkauslista siitä olisi tullut, jos olisimme tätä
+teidän reseptiänne noudattaneet: Kreikan ero —
+8 miljardia euroa bruttokansantuotteestamme;
+kriisimaiden irrottaminen eurosta ja ydineuron
+rakentaminen — yli 25 miljardia; euron totaali-
+nen romahtaminen — vähintään viidesosa mei-
+dän bruttokansantuotteestamme pois. 
+
+Tässä oli-
+sivat olleet sen teidän kansalle tuputtamanne tien
+hintalaput. 
+
+Olisikin ollut hyvä tietää, mistä me
+sitten olisimme perussuomalaisten mielestä lei-
+kanneet, jos yksikin näistä teidän hyvinä pitämis-
+tänne vaihtoehdoista olisi toteutunut.
+125 Päivi Räsänen kd:  Arvoisa puhe-
+mies! 
+
+Täytyy kehua edustaja Hakkaraisen puhet-
+ta siinä mielessä, että hän arvosti hallituksen ta-
+lousarvioesityksen noinkin korkealle ja taisi sii-
+nä hieman kehaista myös meikäläisen maakunta-
+tietämystä.
+Mutta sitten puheeseen. 
+
+Elämme edelleen epä-
+varmuuden aikoja. 
+
+Euroopan talous yskii velka-
+kriisissä. 
+
+Yhdysvalloissa kasvu on edelleen vai-
+meaa. 
+
+Kasvutalouksissakin on havaittavissa hi-
+dastumisen merkkejä. 
+
+Suomessa kasvu nojaa yk-
+sityisen sektorin kulutukseen. 
+
+Kansainvälisen ja
+Tiistaina 18.9.2012
+60
+81/1/126
+kansallisen talouden toimintaympäristö on siis
+suhteellisen kaukana poliittisesti myyvän talous-
+politiikan harjoittamisesta. 
+
+Silti hallitus tekee
+tässä talousarviossa kelpo suorituksen. 
+
+Kaikkia
+ongelmia budjetti ei todellakaan ratkaise, mutta
+siihen sisältyvät satsaukset kasvuun ja työllisyy-
+teen vahvistavat niin kansalaisten kuin ulkomaa-
+laisten sijoittajienkin luottamusta Suomen talou-
+teen. 
+
+Se on näinä aikoina kova kansainvälinen
+saavutus.
+Erityisen paljon kiitosta, arvoisa puhemies,
+hallitus ansaitsee yrityksille annettavista kasvu-
+kannusteista.
+45 Simon Elo sin:  Arvoisa puhemies! 
+
+Ha-
+luan aluksi kiittää edustaja Lehteä hyvästä pu-
+heenvuorosta ja huomion kiinnittämisestä ydin-
+asioihin. 
+
+Kuntien palvelujen tuottavuus ja tehok-
+kuus on yksi ydinasia. 
+
+Ja kannattaa käyttää näitä
+tutkimuksia hyväksi, mitä on tehty kuntien pal-
+veluiden tuottavuudesta ja mitkä tekijät siihen
+vaikuttavat, ja se on vain sillä tavalla, että mi-
+kään tutkimus ei osoita, että suuruus sinänsä on
+se ratkaisu. 
+
+Ja tässä mielessä tämä suuri kuntare-
+formi, jota nyt ajetaan ja jossa ydinsanaksi on
+noussut elinvoimainen kuntarakenne, unohtaa tä-
+män perusasian. 
+
+Kuvitelma siitä, että pelkkä ra-
+kennemuutos ratkaisee asian, on suuri harha.
+
+Pi-
+tää paneutua siihen varsinaiseen asiaan, joka on
+palvelut ja niitä palveluja käyttävät ihmiset ja mi-
+ten tämä parhaalla tavalla kullakin alueella toi-
+mii. 
+
+Ja siihen ei ole ratkaisu vain yksi ainoa mal-
+li, vaan pitää pystyä joustamaan.
+Ja jos emme me
+pääse eteenpäin tämän palveluiden tuottavuuden
+osalta, sen palveluihin sisältöön, organisointiin
+jne. paneutumalla, ei tämä tuo tulosta tämä suuri
+kuntareformi. 
+
+Käy niin, että julkisen talouden
+vaje syvenee, jos ei päästä varsinaiseen asiaan
+kiinni.
+Arvoisa puhemies! 
+
+Haluan kommentoida vie-
+lä tätä kiinteistöveroasiaa. 
+
+Keskustelussa näyttää
+unohtuvan usein se, miten tämä järjestelmä toi-
+mii. 
+
+Ei tässä tasata sataa prosenttia, vaan se tasa-
+taan keskimääräisten veroprosenttien mukaan ta-
+soon 91,86 prosenttia. 
+
+Nostetaan ne, jotka jäävät
+sen laskennallisen tason alapuolelle, siihen ta-
+soon, ja niiltä, jotka ylittävät sen 37 prosenttia,
+on valtionosuuden vähennyksenä tätä vastaava.
+
+
+
+
+
+
+16.03 Antero Laukkanen kd (vastauspuheenvuoro): Arvoisa rouva puhemies! 
+
+On tietys-
+ti juhlavuonna hieno sattuma, että talouden kaikki numerot näyttävät tällä hetkellä ylös-
+päin, ja siitä pitäisi koko eduskunnan olla tyytyväinen. 
+
+Tulos olisi vielä parempi, jos halli-
+tus ei olisi tehnyt niin paljon sellaisia leikkauksia, jotka itse asiassa tuottavat lisää kuluja.
+Minusta tämä arviointi tulisi hallituksen sisällä tehdä, jotta nämä luvut olisivat todellisem-
+pia.
+Erään asian nostaisin tässä esille ja toivoisin, että ministeri Risikko vastaisi tähän: ra-
+hankeräyslain selkeyttäminen. 
+
+16.15 Li Andersson vas (vastauspuheenvuoro): Arvoisa puhemies! 
+
+Ministeri Rehula sa-
+noi osuvasti, että mustaa ei kannata selittää valkoiseksi, ja tältä osin tämä keskustelu on ol-
+lut varsin valaisevaa. 
+
+Olemme saaneet kuulla, että tämä vähentynyt velanoton tarve johtuu
+siitä, että valtion kassavarantoja on käytetty, ja olemme myöskin saaneet kuulla, että pit-
+käaikaistyöttömyys on kasvanut verrattuna viime vuoteen.
+Mutta kun valtiovarainministeri Orpo sanoi, että hallitus ei tule leikkaamaan sote-uudis-
+tuksen yhteydessä, niin mielestäni tässäkin suhteessa olisi syytä selkeyttää, mistä on kyse.
+Kun sote-menot 2000-luvun aikana ovat kasvaneet keskimäärin noin 2,9—3,5 prosenttia ja
+mikäli hallitus painaa maakunnille myönnettävän rahoituksen alle tämän tason samanai-
+kaisesti kun siirrytään uuteen järjestelmään, joka kaikkien asiantuntijoiden mukaan nostaa
+kustannuksia nykyisestään, niin mistä maakunnat hakevat tämän erotuksen?
+13.19 Sari Essayah kd:  Arvoisa puhemies! 
+
+Jaan huoleni puheenjohtaja Tuula Haatai-
+sen kanssa nimenomaan sote-uudistuksen vaikutuksista koulutukseen ja kouluttautumisen
+mahdollisuuksiin. 
+
+Lääkäreiden rekrytoinnissa on tullut viimeisen 20 vuoden aikana selkeä
+vinouma: työterveyshuollossa, yksityisissä lääkäripalveluissa rekrytointien määrässä on
+noin 40—50 prosenttia kasvua, erikoissairaanhoidossa 20 prosenttia, ja perusterveyden-
+huollossa uusia lääkärirekrytointeja ei ole tapahtunut viimeisen 20 vuoden aikana. 
+
+Tämä
+on johtanut siihen, että erilaisia lieveilmiöitä, reppufirmoja ynnä muuta, on sitten peruster-
+veydenhuollon lääkäripalveluihin tullut mukaan.
+Eduskunta hyväksyi syksyllä erikoislääkärikoulutuksen siirtämisen opetus- ja kulttuuri-
+ministeriöltä sosiaali- ja terveysministeriölle ja toisin sanoen yliopistojen vastuulle.
+Tässä
+nimenomaan sote-uudistus tuo nyt uuden tilanteen, koska nyt syntyy pieniä erikoislääkäri-
+yksiköitä ja toisaalta kouluttajat edellyttävät tiettyä laatuvaatimusta koulutusyksiköiltä.
+
+Tässä tulee ristiriita, ja näen, että meidän koulutuksen laatu tulee olemaan uhattuna sen
+ohella, että myös halukkuus koulutukseen, nimenomaan vaativaan ammattikoulutukseen,
+koulutukseen 50 erikoisalalle, vähenee ja meillä erikoislääkäripula tulee lisääntymään. 
+
+Hy-
+vään työympäristöön kuuluu koulutus, tutkimus ja sitten kliininen työ. 
+
+Nämä ovat sen tu-
+kijalat, se koskee kaikkia ammattihenkilöitä, myös terveydenhuollon muita ryhmiä.
+16.15 Perhe- ja peruspalveluministeri Annika Saarikko (vastauspuheenvuoro): Arvoi-
+sa puhemies! [ÄT1]
+
+Tässä kysymyksessä edustaja on aivan suomalaisen terveydenhuoltojärjes-
+telmän ytimessä. 
+
+Siis siinä tilanteessa, kun on hätä ja tarvitsee päivystyksellistä apua, joko
+112-numeroon soittamalla tai muutoin hakeutumalla hoitoon, meidän pitää olla varmoja,
+että kaikkialla Suomessa on mahdollista saada apua. 
+
+Ja se apu ei ole sairaalan seinissä vaan
+niissä osaavissa tekijöissä, hoitajissa ja lääkäreissä. 
+
+Viimeksi tämän viikon alussa oli sote-
+asiantuntijoiden kuuleminen juuri tästä kokonaisuudesta, joka liittyy asiakasseteleihin, ja
+hallitus tuon jälkeen kävi läpi esitystään ennen kaikkea siitä näkökulmasta, mikä on asia-
+kassetelin myöntämisen laajuus — siis mihin kaikkiin asioihin se myönnetään — miten sen
+käyttöönottoa vaiheistetaan ja mikä on maakunnan oma harkintavalta jättää se antamatta,
+vaikka lain pykälissä todetaan velvoittavuus sille antamiselle.
+Tätä rajaavat esimerkiksi ne
+seikat, miten me tällä hetkellä määrittelemme julkisen leikkaustoiminnan edellytyksiä ja
+luomme yksityisille omat laatukriteerit, [Puhemies koputtaa] jotka viedään lakiin. 
+
+— Jat-
+kan tästä myöhemmin mielelläni lisää.
+16.36 Outi Alanko-Kahiluoto vihr: Arvoisa puhemies! 
+Arvoisa pääministeri, sanoitte
+äsken täällä kyselytunnilla, että vaalien järjestäminen on tekniikkaa. 
+Sanoitte viikko sitten Iltalehdelle, että olette neuvotellut soten käsittelyaikataulusta vuo-
+si sitten eduskunnan kanssa ettekä hyväksy siis ajatusta soten viivästymisestä tai vaalien
+lykkääntymisestä. 
+
+Siis kenen kanssa olette voinut sopia soten käsittelyaikataulusta? 
+
+Pää-
+ministeri ei voi sopia kenenkään kanssa siitä, kuinka kauan lakien käsittely eduskunnassa
+vie. 
+Pääministeri ei ole yritysjohtaja, eikä eduskunta ole pääministerin alainen.
+Olette valitettavasti väärässä. 
+Vaalien järjestäminen on demokratiaa. 
+Olette
+myös sanonut keskustelun maakuntavaalien aikataulusta olevan hölynpölyä — siis hölyn-
+pölyä. 
+Tämäkö on käsityksenne demokratiasta? 
+Kysynkin teiltä, pääministeri Sipilä: eikö teidän tehtävänne pääministerinä ole puolus-
+taa eduskunnan mahdollisuutta lakien demokraattiseen käsittelyyn, vai onko pääministe-
+rin tehtävänä [Puhemies koputtaa] mielestänne huolehtia siitä, että sote saadaan ulos edus-
+kunnasta [Puhemies: Aika!] ennen keskustan puoluekokousta?
+16.57 Satu Hassi vihr (vastauspuheenvuoro): Arvoisa puhemies! 
+
+OECD on arvioinut,
+että Suomen terveydenhoitojärjestelmä on maailman kolmanneksi kustannustehokkain.
+
+On siis selkeä riski, että suuret muutokset vievät kustannustehokkuutta alaspäin eli nosta-
+vat kustannuksia. 
+
+Kaikki ne esimerkit, mitä hallituksen puolelta on tuotu siitä, miten kus-
+tannustehokkuutta parannetaan, Eksote ja Kainuu, perustuvat perusterveydenhuollon ja
+erikoissairaanhoidon ja sosiaalipalvelujen parempaan integroimiseen, mutta hallituksen
+Pöytäkirja PTK 55/2018 vp
+18
+nykyinen esitys nimenomaan lisää raja-aitoja, vähentää integraatiota. 
+
+Viimeksi Lääkäri-
+lehdessä professori Kekomäki totesi, että hallituksen esitys panee terveyskeskukset päreik-
+si, poistaa senkin vähäisen integraation, mitä tällä hetkellä on, ja luo suomalaisten välille
+uuden raja-aidan — niiden välille, jotka tarvitsevat sosiaalipalveluja, ja toisaalta niiden,
+jotka eivät tarvitse. 
+
+Ymmärrättekö, että hallituksen esitys [Puhemies koputtaa] toimii ai-
+van eri suuntaan kuin ne kauniit tavoitteet, mistä puhutte?
+16.48 Anders Adlercreutz r: Ärade talman! 
+
+Verotusoikeushan korjaisi tämän ongelman.
+
+[Vasemmistoliiton ryhmästä: Nimenomaan!] Mutta me olemme tässä tilanteessa, koska
+uudistuksen kanssa on edetty väärässä järjestyksessä. 
+
+Ensimmäisenä luovuttiin etenemis-
+tavasta, sen jälkeen sen tavoitteista. 
+
+Nyt kohtuuton aikataulu vesittää asian kunnollisen, pe-
+rusteellisen käsittelyn eduskunnassa. 
+Ei kannata käynnistää maakuntia, jotka eivät toimi. 
+
+Ei kannata lehmänkauppakoplaus-
+enemmistöllä ajaa tällaista uudistusta läpi, joka ei täytä sille asetettuja tavoitteita.
+
+Ja, arvoi-
+sa ministeri, oikeuskanslerin mielipiteellä tulisi olla oikeusvaltiossa merkitystä.
+Vaalien päivämäärä on kirjattu lakiin, eli se tulee korjata tässä, nyt valiokunnissa ja sen
+jälkeen käsitellä lakipakettia kunnollisesti asiantuntijoita kuunnellen, ei niin, että rajoite-
+taan kuulemisten määrää. 
+
+Siirretään vaalit eduskuntavaalien yhteyteen, ja koska ministeri
+Vehviläinen on huolissaan siitä, ettei ole aikaa käynnistää maakuntia, [Puhemies koputtaa]
+käynnistetään ne vuotta myöhemmin, hidastetaan Molokin kidan aukeamista.
+16.20 Eva Biaudet r: Arvoisa puhemies! 
+
+Meillähän on edessä siinä mielessä mielenkiin-
+toinen tilanne, että meillä on lakiehdotus, joka on tullut eduskuntaan kansalaisaloitteena
+mutta joka on harvinaisen hyvin ja perusteellisesti valmisteltu jo ministeriössä. 
+
+Siitä on ol-
+lut työryhmä, ja luonnos on ollut lausuntokierroksella. 
+
+Me olemme käsitelleet sitä yli vuo-
+den valiokunnassa todella perusteellisesti. 
+
+Olemme kuulleet todella paljon asiantuntijoita.
+Siinä mielessä ei ainakaan sitä voi sanoa, että emme olisi perusteellisesti käsitelleet sitä.
+
+Olemme kuulleet kaikki ne argumentit puolesta ja vastaan ja ottaneet eri näkökulmia mu-
+kaan.
+
+On myös selvää, että lainsäädäntöratkaisuja voi aina olla erilaisia, mutta mielestäni ei
+ehkä ole ihan oikein keskustella siitä, onko lainsäädäntöratkaisu oikea, jos itse asiassa on
+eri mieltä siitä, mitä halutaan.
+18 Mats Nylund r:  Puheenjohtaja! 
+
+Edustaja
+Rajamäki piti erittäin selittävän ja hyvän puheen-
+vuoron koskien maa- ja metsätalousvaliokunnan
+lausuntoa. 
+
+On ehdottomasti näin, kuten sano-
+taan. 
+
+Ei tällä maa- ja metsätalousvaliokunnan
+esitetyllä tavalla kyllä laajenneta hirvenmetsäs-
+tystä ollenkaan. 
+
+Se on aivan väärä väite. 
+
+Se on
+tullut esille keskustelussa ja koskee näitä mah-
+dollisia metsästäjiä tulevaisuudessa.
+
+Maa- ja metsätalousvaliokunta kuunteli perus-
+teellisesti asiantuntijoita. 
+
+Esimerkiksi Pölläkän
+Metsästysseura, siellä on 29 jäsentä. 
+
+27 asuu alu-
+een ulkopuolella ja kahdesta jäljellä olevasta
+mahdollisesta ampujasta yksi on saanut aivove-
+renvuodon ja se toinen on täyttänyt 83 vuotta.
+Tämä on se totuus. 
+
+Tästä totuudesta me puhum-
+me nyt.
+24 Anni Sinnemäki vihr:  Arvoisa puhemies!
+Koloveden kansallispuiston laajennus on todella-
+kin erittäin hieno asia, ja ympäristövaliokunnas-
+sa kun tätä lakiesitystä on käsitelty, niin olemme
+ennen kaikkea iloinneet siitä, että tämä arvokas
+kansallispuisto melkein kaksinkertaistaa pinta-
+alansa. 
+
+Se tietenkin tarkoittaa sitä, että tämän alu-
+een mahdollisuus suojella suomalaista luontoa
+paranee.
+
+
+
+
+
+32 Jari Myllykoski vas:  Arvoisa herra puhe-
+mies! 
+
+Kun hirvenmetsästyksestä tällä kansallis-
+puiston alueella keskustellaan, niin minun on
+pakko itselleni palauttaa niitä omia tunnelmia,
+joita valiokuntakäsittelyssä maa- ja metsätalous-
+valiokunnassa esille tuli.
+Ensin oli huoli siitä, onko tämä se pandoran li-
+pas, jonka avulla metsästysharrastusta voidaan
+ryöstää pohjoisten kansallispuistojen sillä perus-
+oikeudella, joka heille on alkuperäisväestön osal-
+le annettu sekä valtion mailla että valtion mailla
+oleville kansallispuistoille.
+Sitä huolta hälvennettiin, ja siinä kohtaa omal-
+la kohdallani on tällä hetkellä se luottamus ja us-
+ko, että tämä maa- ja metsätalousvaliokunnan nä-
+kemys ei olisi sellainen keppihevonen, millä me
+sitten pohjoisten ihmisten vihat olisimme päälle
+saaneet, koska aivan selvä on, että tätä oltaisiin
+pyritty käyttämään, ja tullaan pyrkimään käyttä-
+mään, mikäli tämä maa- ja metsätalousvaliokun-
+nan näkemys lakiin tulisi kirjatuksi.
+Omalta kohdaltani puntaroidessani sitä, mitä
+tapahtuu Kolovedellä:
+Hirvikanta on säännösteltyä lajistoa meidän
+luonnossamme. 
+
+
+
+
+17 Outi Alanko-Kahiluoto vihr:  Arvoisa pu-
+hemies! 
+
+Hallitus teki rakennepäätöksissään sen
+tärkeän periaatteellisen päätöksen, että nyt tul-
+laan todellakin tarkastelemaan vähimmäistyöky-
+vyttömyyseläkettä ja sitä, voitaisiinko siitä pois-
+taa työnteon esteitä. 
+
+Nykyisinhän on todellakin
+se kummallinen tilanne, johon edustaja Sarko-
+maa viittasi, että vähimmäistyökyvyttömyys-
+eläkkeellä oleva henkilö saa ansaita ainoastaan
+700 euroa kuukaudessa, minkä jälkeen hän me-
+nettää koko työkyvyttömyyseläkkeensä, ellei
+tämä henkilö sitten satu olemaan kokonaan lii-
+kuntakyvytön tai kokonaan sokea. 
+
+Voitaisiinko
+ajatella, että lakiesitys siitä, että saataisiin lineaa-
+rinen malli työkyvyttömyyseläkkeeseen, jolloin
+eläke leikkautuisi vähitellen, saataisiin mahdolli-
+simman pian eduskunnalle, jo ensi vuoden alus-
+sa?
+14.07 Touko Aalto vihr: Arvoisa rouva puhemies! 
+
+Ympäristövaliokunta aivan aiheelli-
+sesti toteaa lausunnossaan, että "kun ohjeistus on käytännöllistä ja toimintamallit vakiintu-
+neet, on toimijoilla hyvät mahdollisuudet onnistuneiden suojelutoimien käytännön toteut-
+tamiseen". 
+
+Jos asianomainen ministeri olisi paikan päällä, niin kysyisin häneltä — toki
+myös hallituspuolueiden edustajat voivat vastata hänen puolestaan — minkälaisia toimia
+hallitus on tekemässä sen eteen, että metsätalouden toimijoilla olisi jatkossa ajantasainen ja
+yhdestä paikasta helposti saatava tieto liito-oravien lisääntymis- ja levähdyspaikoista.
+14.09 Leena Meri ps: Arvoisa puhemies! 
+
+Kiitos ministerille esittelystä. 
+
+Tämä varsinai-
+nen hallituksen esityshän on käsittelyssä muun muassa meillä lakivaliokunnassa, ja tätä
+täydentävää esitystä on odoteltu. 
+Muutaman kommentin ja huomion haluaisin oikeastaan antaa evästykseksi perustusla-
+kivaliokunnalle. 
+
+Koska en ole enää sen jäsen, niin oikeastaan voin hieman ehkä jopa kriti-
+soida sitä ajatusmallia, joka sieltä nyt on tullut.
+
+Kuten ministeri sanoi, niin nyt jatkossa sitten, koska tämä hallituksen esityshän on an-
+nettu tässä muodossa, kieltoasioita ja seuraamusmaksuasioita ei voida käsitellä enää sa-
+massa yhteydessä. 
+
+Tähän on nyt rakennettu tämmöinen konstruktio, että seuraamusmak-
+suasiaa voidaan lykätä, jotta kieltoasia saadaan käsiteltyä, kun ne menevät kahdessa eri
+prosessissa. 
+
+Itselleni heräsi kysymys, kun luin tätä perustuslakivaliokunnan kannanottoa ja
+tätä hallituksen esitystä, onko tämä enää perustuslaillinen kysymys siinä mielessä, että pe-
+rustuslakivaliokunta ottaa kantaa siihen, missä prosessissa asioita voidaan käsitellä varsin-
+kin ja semminkin, kun meillä on olemassa asioita, joita käsitellään eri prosesseissa.
+18.29 Jussi Niinistö sin (vastauspuheenvuoro): Arvoisa puhemies!
+Monet turvapaikanhakijat käyvät läpi kielteisistä päätöksistä uusintahakemus- ja valituskierrettä. 
+Se voi kestää useita vuosia.
+
+15.32 Riikka Purra ps (vastauspuheenvuoro):
+Arvoisa herra puhemies!
+Tänään uutisissa kerrottiin Ruotsista Isistä palvelemaan lähteneestä naisesta, joka otettiin Arlandassa kiinni heti, kun hän palasi al-Holista, epäonnistuneesta kalifaatista.
+ Naista epäillään paitsi yhteyksistä Isis-terrorijärjestöön myös muun muassa lapsikaappauksesta hänen vietyään tuolloin kaksivuotiaan poikansa Isis-alueelle. 
+Kaikki Suomeen palanneet Isis-naiset sen sijaan ovat vapaalla jalalla. 
+19.09 
+Kimmo Kiljunen sd :
+Arvoisa rouva puhemies! 
+Tämä keskustelu tyttöjen ja naisten sukuelinten silpomisen kriminalisoinnista on ollut arvokasta kuunneltavaa, myöskin ihmiselle, joka ei nyt näitä lainsäädännön yksityiskohtia ole sillä tavalla pystynyt seuraamaan työkseen, kuten lakivaliokunta nyt on tähän lähes vuoden asiaan paneutunut
+Ja toinen seikka, mistä me olemme yksimielisiä, on se, että tämä tyttöjen ja naisten sukuelinten silpominen on brutaali väkivallan teko, joka tulee ehdottomasti jyrkästi kieltää, ja siihen tulee myöskin luoda seurantajärjestelmät eri tavoilla mukaan lukien sitten tukitoimenpiteet laajassa mittakaavassa.
+Se, mistä täällä on ollut erimielisyyttä ja erilaisia painopisteitä on nähty, on se, että kun ympärileikkaus-sanaa käytetään sekä tyttöjen että poikien kohdalla, niin puhummeko samasta asiasta vai täysin eri asiasta, ja oliko oikein tai väärin, että lakivaliokunta otti asian esille omassa mietinnössään. 
+Itse jäisin avaamaan tätä keskustelua toisessa asiayhteydessä kuin tässä kohdassa, niin että käytäisiin läpi myöskin tämä poikin ympärileikkauksen merkityssisältö siinä suhteessa, että siinä on kuitenkin lapsen koskemattomuudesta ja itsemääräämisoikeudesta kysymys.
+20.37 
+Sebastian Tynkkynen ps :
+Arvoisa herra puhemies! 
+Jos nyt rehellisiä ollaan, niin sillä, että korkein oikeus menee perustelemaan lapsen silpomista lapsen oman edun kannalla, kyllä on paljon enemmän tekemistä sen kanssa, että korkein oikeus kokee, että eivät ne voi olla se taho, joka on määrittämässä Suomessa ikään kuin niitä tehtäviä, mitä meillä on.
+ Siis meidän pitäisi olla määrittämässä, ovatko nämä silpomiset poikien osalta kiellettyjä vai eivät. 
+Edustaja Zyskowicz, puhuitte siitä, kuinka tällä poikalapsen silpomisella ei ole vaikutuksia seksin harrastamiseen.
+Kai tässä nyt täytyy loppupeleissä sitten tehdä se johtopäätös, että meillä ei ole eduskuntana valitettavasti rohkeutta asettua mieluummin poikalapsen itsemääräämisoikeuden ja koskemattomuuden puolelle, kun vaakakupissa toisella puolella on monikulttuurisuus ja monikulttuuriset tavat ja traditiot, joita pitäisi samaan aikaan pystyä puolustamaan.
+17.48 
+Teuvo  Hakkarainen  ps  
+(vastauspuheenvuoro): Arvoisa puhemies!
+Libanonin opetusministeri Elias Bou Saab arvioi, että 2 prosenttia Eurooppaan tulevista henkilöistä olisi Isis-jihadisteja.
+18.24 
+Vesa-Matti Saarakkala ps 
+(esittelypuheenvuoro): Arvoisa herra puhemies! 
+Kasvot peittävien huntujen käytöllä yleisellä paikalla on tiiviitä liittymäkohtia sukupuolten väliseen tasa-arvoon sekä yksilön oikeuteen päättää omasta pukeutumisestaan.
+Suomeen kohdistuneen maahanmuuttovyöryn seurauksena perustuslain 6 ja 7 §:ien turvaamat perusoikeudet ovat tulleet kiistetyiksi eräiden kolmansista maista tulleiden väestöryhmien edustajien toimesta, joiden edustama uskonnollis-kulttuurinen elämänkatsomus ei tunnusta sukupuolten välistä tasa-arvoa tavalla, jolla yhteiskuntamme tapakulttuuri ja lainsäädäntö sen tekevät.
+ Siksi burka- ja niqab-huivien käyttökielto yleisellä paikalla olisi selkeä kannanotto valtiovallan taholta sen puolesta, että universaalien ihmisoikeuksien painoarvo asetetaan erityisryhmien uskonnollisten traditioiden edelle. 
+Burkan tai niqabin käytöstä ei ole säädetty islaminuskoisten pyhissä teksteissä, joten vaatekappaleiden käyttökiellon ei voida katsoa rikkovan uskonnonvapauden takaavaa perustuslain 11 §:ää tai Euroopan ihmisoikeussopimuksen 9 artiklaa. 
+Burkan käyttö oli Afganistanissa naisille julkisilla paikoilla pakollista Taliban-hallinnon aikana ankaran rangaistuksen uhalla. 
+Silti naiset pukeutuvat yhä koko vartalon kasvoineen peittävään burkaan monin paikoin Afganistania oman turvallisuutensa tähden.
+Kasvot lähes kokonaan peittävän niqabin käyttö taas on yleistä Persianlahtea ympäröivissä arabimaissa. 
+Erityisesti jihadistijärjestö Isisin valtaamilla alueilla naisia vaaditaan käyttämään kaksinkertaista niqabia sekä hansikkaita. 
+ Burkan ja niqabin käytön ei näin voida katsoa olevan muslimimaissakaan ihmisoikeuskysymys vaan uskonnollisten normien sanelema pakko naisille. 
+ On perusteltua pitää todennäköisempänä sitä näkökantaa, etteivät musliminaiset Suomessa tai muualla Euroopassa pääsääntöisesti käytä kasvot peittävää huntua vapaaehtoisesti, jolloin sen käyttökielto ei rikkoisi perustuslain 7 §:n henkeä. 
+Euroopan maista Belgiassa ja Ranskassa on voimassa kasvot peittävien huntujen käyttökielto yleisillä paikoilla. 
+15.57 
+Timo Harakka sd : Arvoisa puhemies! 
+Perussuomalaisethan on tinkinyt kaikista periaatteistaan päästäkseen hallitukseen, joten varmaan neljän vuoden päästä edustaja Elo on ensimmäisenä rakentamassa kanssani suurta moskeijaa Vantaalle.
+14.29 
+Paavo Arhinmäki vas 
+(vastauspuheenvuoro): Arvoisa herra puhemies! 
+ Samalla tavalla Helsingissä kaikki puolueet tarkastelevat kriittisesti suurmoskeijan rahoitusta, mutta ne rahoittajat tämän moskeijan takana ovat samoja maita, joihin Suomi vie aseita.
+16.13 Simon Elo sin:
+Arvoisa puhemies!
+Meillä ei voi sallia esimerkiksi sellaista tilannetta, mitä joissain maissa on ollut, rinnakkaisia oikeusjärjestelmiä — šaria-laki tässä yhteydessä täytyy tietysti mainita — vaan nimenomaan täytyy kunnioittaa sen maan lainsäädäntöä, pelata samoilla pelisäännöillä kuin muidenkin suomalaisten.
+Samaan aikaan on aivan suoraan puhuttava siitä ongelmasta, mikä kotouttamiseen liittyy useimmissa Euroopan maissa, eli ääri-islamismista. 
+Tämä on ollut se suurin haaste, että syntyy ihmisiä tai väestöryhmiä esimerkiksi nuorista miehistä, joilla ei näytä olevan tulevaisuuden suunnitelmia, tulevaisuuden toiveita: joko he saattavat kääntyä rikollisjoukkojen puoleen tai sitten tällaisten esimerkiksi ääri-islamististen ryhmien rekrytoijat ottavat heidät huomaansa ja tarjotaan heille tulevaisuus sitä kautta. 
+ Tähän meidän tulee, totta kai, puuttua, ja sinisetkin ovat sitä mieltä, että esimerkiksi ulkomainen rahoitus moskeijahankkeisiin on erittäin ongelmallista tässä suhteessa, koska silloin yleensä ajetaan uskonnon varjolla sellaista maailmankuvaa, joka todennäköisesti ei sitä kotouttamista edistä.  
+17.49 
+Hussein al-Taee sd :
+Arvoisa rouva puhemies! 
+ Haluaisin puheenvuorollani ensisijaisesti ehkä kiittää entistä arkkipiispaa Kari Mäkistä. 
+Hän todella avasi minulle lähimmäisenrakkautta käytöksellään, ja hän ohjasi suomalaista kirkkoa sellaiseen suuntaan, että minulle valkeni, mikä lähimmäisenrakkaus on parhaimmillaan.
+ Se, miten Kari Mäkinen sen havainnollisti toiminnallaan, näyttäytyi sellaisena, että jokainen ihminen on lähimmäinen riippumatta tämän ihmisen uskosta tai taustasta tai seksuaalisesta suuntauksesta. 
+Se näkyi erityisesti silloin, kun Suomeen tuli paljon turvapaikanhakijoita, muistan, että kun moni heistä jäi kodittomaksi, niin silloin kirkko todella kirkasti tämän lähimmäisenrakkauden merkitystä avaamalla kirkonovia näille ihmisille. 
+ Kirkkojen ovet ovat edelleen näille ihmisille auki riippumatta siitä, mikä näiden ihmisten uskontokunta tai uskonnollisuus ylipäänsä on. 
+Ja näistä siis kiittäminen silloiselle ja nykyiselle kirkolle. 
+20.47 
+Olli Immonen ps :
+Arvoisa rouva puhemies!
+Esimerkiksi uusia halal-teurastamoja suunnitellaan tälläkin hetkellä perustettavaksi maahamme lisää. 
+Halal-teurastetulla lihallahan tarkoitetaan islamin mukaan oikeaoppisesti valmistettua lihaa, jossa eläimen kurkku leikataan auki ilman tainnutusta.
+Eläimet on aseteltu Mekkaa kohti, ja ennen kurkun leikkaamista lausutaan rukousloitsuja. 
+Halal-tunnus tuotteen kyljessä on myös eräänlainen takuu siitä, että tuote myy. 
+16.13 
+Laura Huhtasaari ps 
+(vastauspuheenvuoro): Arvoisa puhemies! 
+Radikaali-islamistisen terrorismin uhka Suomessa on kohonnut ja samalla sisäinen turvallisuus on heikentynyt.
+Käynnissä oleva islamisaatioilmiö etenee koko ajan. 
+ Koska islamin normit poikkeavat länsimaisen yhteiskunnan normeista, laajamittainen muslimien maahanmuutto johtaa muslimien eriytymiseen isäntäyhteiskunnasta ja muslimiväestön kasautumiseen omille alueilleen, joissa vallitsevat islamilaiset arvot. 
+16.14 
+Ozan Yanar vihr 
+(vastauspuheenvuoro): Arvoisa rouva puhemies!
+Minusta on käsittämätöntä, että terrorismia ja turvapaikanhakijoita voidaan jollain tavalla laittaa edes, miten sen nyt sanoisi, jotenkin rinnakkain ja ehkä jopa tuoda esille rivien välissä, että tässä olisi ilmiö, jossa islam ja länsimainen yhteiskunta olisivat sodassa.
+Edustaja Tanukselle pieni sivistävä vinkki, että Isis kyllä vainoaa ihan muslimeja myös, että autetaan ihmisiä hädän perusteella kuten aiemminkin, kiitos. 
+14.38 
+Simon Elo sin :
+Arvoisa puhemies!
+ Eurooppa on sodassa ääri-islamismia vastaan. 
+Yhdysvaltain ja Israelin kaltaiset maat ovat luonnollisia liittolaisiamme taistelussa ääri-islamismia vastaan.
+Euroopassa on seurattava tarkemmin, mitkä toimijat rahoittavat moskeijoita ja muita islamilaisia yhteisöjä, sillä sen lauluja laulat, jonka leipää syöt.
+Nykyisin kärsijänä ovat myös vaikutuksille alttiit musliminuoret, jotka joutuvat radikaalisaarnaajien pauloihin. 
+Jatketaanko itsepetosta jälleen seuraavaan Berliinin kaltaiseen terroristi-iskuun asti vai myönnetäänkö, että terrorismin vastainen taistelu on maailmankatsomuksien sotaa, jossa ääri-islamistit haluavat tuhota koko länsimaisen elämänmuodon?
+ Kantaako muslimiyhteisö sen vastuun, joka sille kuuluu? 
+21.03 Vesa-Matti Saarakkala sin (esittelypuheenvuoro):
+Arvoisa rouva puhemies!
+Nykyisessä tilanteessa uskonnollisista syistä tehdyt poikalasten ympärileikkaukset ovat laillisia, huolimatta siitä, että tunnusmerkistöltään teko rikkoo Suomen perustuslakia, rikoslakia, Euroopan ihmisoikeussopimuksen artiklaa henkilökohtaisesta koskemattomuudesta sekä asettaa tyttö- ja poikalapset sukupuolen perusteella eriarvoiseen asemaan ja ylläpitää julkisin varoin tapahtuvaa uskonnollisten erivapauksien tukemista. 
+ Ennakkopäätöksenä poikien ympärileikkausten laillisuudesta pidetään pahoinpitelysyytettä koskenutta tapausta KKO:2008:93, jossa oikeus katsoi, ettei muslimipojalle uskonnollisista syistä järjestetty ympärileikkaus ollut lainvastainen. 
+Lisäksi oikeus arvioi lapsen vanhempien uskonnolliset intressit painavammiksi kuin Euroopan ihmisoikeussopimuksen 8 artiklassa suojatun henkilökohtaisen koskemattomuuden, vaikka totesikin Euroopan ihmisoikeustuomioistuimen oikeuskäytännöstä, että suhteellisen vähäinenkin lääketieteellinen toimenpide voi merkitä perusoikeuksien loukkausta, jos se tehdään ilman asianmukaista suostumusta. 
+Tämä perustuslain kohta on universaali jakamattoman ihmisarvoisen elämän perusta, eikä sitä voida sivuuttaa vetoamalla uskonnollisiin traditioihin tai normeihin ja näin sallia ympärileikkauksen kaltaisten rituaalien suorittamista pienelle lapselle. 
+Perustuslain 11 § turvaa uskonnonvapauden, joten tästäkin näkökulmasta poikalapsille suoritettu ympärileikkaus on peruuttamattomana toimenpiteenä ongelmallinen. 
+Valtiovallan olisi syytä harrastaa pidättyväisyyttä yksilön uskonnollisen vakaumuksen tukemisessa erivapauksilla. 
+Lääkäriliiton mukaan lääkäriä ei voida velvoittaa eettisistä syistä toteuttamaan uskonnollista rituaalia, josta ei ole potilaalle terveydellistä hyötyä. 
+Saman lausunnon mukaan on lisäksi kyseenalaista käyttää julkisia varoja rahoittamaan erityisryhmien uskonnollisia käytäntöjä. 
+Suomen valtion tavoitteena on oltava se, että uskonnolliset yhteisöt luopuisivat alaikäisille suoritetuista uskonnollisista ympärileikkauksista ja antaisivat yksilölle täysi-ikäisyyden saavutettuaan aidon valinnanvapauden ympärileikkauksen mahdollisesta teettämisestä oman vakaumuksensa perusteella. 
+18.35 
+Eva Biaudet r 
+(vastauspuheenvuoro): Arvoisa puhemies!
+Sitten toisaalta yhdenvertaisuuslaki velvoittaa, että työnantajan on esimerkiksi kehitettävä toimintaansa niin, että erilaisen taustan, esimerkiksi uskonnollisen vakaumuksen, omaavat henkilöt voivat tehdä töitä yhdessä.
+Meillä nimenomaan uudessa pykälässä, jota ehdotamme, on hyvin selkokielellä sanottu, että eettisen tai uskonnollisen vakaumuksen vuoksi voi olla oikeus kieltäytyä, ellei naisen henki ole vaarassa, ja missään vaiheessa ei kukaan ole muuta ajatellutkaan
+Yhdenvertaisuuslain sisältöhän on nimenomaan se, millä tavalla voidaan taata kansalaisille yhdenvertaiset palvelut ja asema, niin että viranomaisten, muun muassa palveluntarjoajien, terveydenhuoltohenkilöstön, omat asenteet esimerkiksi uskonnollisia, etnisiä tai seksuaalivähemmistöjä kohtaan eivät vaikuttaisi negatiivisesti kohteluun.
+16.56 
+Ilkka Kantola sd (vastauspuheenvuoro):
+Arvoisa puhemies! 
+On totta, että lain hyväksyminen ja voimaantulo varmasti aiheuttavat lisäpohdintaa kristillisissä, kirkollisissa yhteisöissä ja uskonnollisissa yhteisöissä, joilla nyt on vihkimisoikeus.
+Sitten minä haluaisin vielä sanoa, että itse ainakin arvostan kristillisiä arvoja, vaikka en kuulu kirkkoon enkä ole uskossa. 
+Tässä keskustelussa kuitenkin nämä uskonnolliset argumentit ylikorostuvat.
+En usko, että kukaan tässä salissa on sitä mieltä, että uskonnonvapaus ei olisi tärkeä arvo. 
+ Pitää kuitenkin muistaa, että kyse on uskonnonvapaudesta, ei velvollisuudesta, ja jokainen aikuinen saa jatkossakin itse päättää halutessaan uskonnolliseen yhteisöön kuulumisesta. 
+ Sanottiin, että uskonnollista retoriikkaa ei saisi olla, mutta oletteko ajatelleet, että tässä salissa on koko ajan ateistista filosofiaa, liberaaliteologiaa, kun pikkuisen raaputetaan sitä pintaa? 
+Tässä salissa on puhuttu myös uskonnosta ja rakkaudesta.
+Ne jätän mielelläni ihmisten yksityiselämän piiriin, mutta sen verran haluan puuttua aiheeseen, että perustuslaki turvaa uskonnonvapauden, mutta maallinen valtamme ja valtiosääntömme lähtee siitä, että valta tulee kansalta, ei Jumalalta, olipa itse kunkin jumala minkälainen tahansa. 
+Uskonnonvapauden nimissä ja vanhempien tasavertaisuuden nimissä olen iloinen siitä, että jatkossa lapsen uskonnollisesta asemasta päättäminen vaatii molempien vanhempien suostumuksen. 
+Ymmärrän tämän edustaja Niikon uskonnollisen näkökulman, mutta näkemykseni mukaan se ei voi olla maallista lainsäädäntövaltaa käyttävän lainsäätäjän näkökulma.
+Uskonnolliset yhteisöt tehkööt tulevaisuudessakin omat ratkaisunsa, mutta oma kantani on, että lähetetään tämä asia eteenpäin eikä tempoilla ja vetkutella sen kanssa. 
+Se, miten uskonnolliset yhteisöt suhtautuvat tähän lainsäädäntöön ja tekevät omia tulkintojaan omissa käytännöissään, ei mielestäni kuulu tähän saliin; täällä me päätämme lainsäädännöstä, ja minusta tässä keskustelussa pitäisi myös keskittyä siihen. 
+17.40 
+Ozan Yanar vihr 
+(vastauspuheenvuoro): Arvoisa rouva puhemies!
+Haluan vain todeta tähän loppuun, että monet perussuomalaiset edustajat saattavat mennä hysteerisiksi, kun puhuvat esimerkiksi islamista, ja kun puhutaan uskonnollisesta konservatismista — Mika Niikon teksti kuulosti suoraan aika islamistipuolueen tekstiltä.
+ On nimittäin niin, että tämä hallituksen esitys ei voi olla vaikuttamatta kaikkiin tuleviin sukupolviin ja siihen kristillisen perinnön tarjoamaan siunaukseen, jonka suojassa olemme saaneet kansakuntana elää. 
+ Puolustakaa sananvapautta, puolustakaa miehen ja naisen välistä avioliittoa, puolustakaa kristillisiä arvoja.
+Erityisesti vetoan meidän pää- ja ulkoministereihin: Pääministeri Sipilä, ulkoministeri Soini, olette molemmat tunnustavia kristittyjä ja tiedostatte aivan varmasti, että Jumala on korottanut teidät tähän tehtävään juuri tätä aikaa varten.
+Missä on teidän jumalanpelkonne?
+Missä on teidän uskonne juuret, ihmisten mielipiteissä vai Jumalan sanassa?
+Suomi on kautta aikojen ollut kristitty yhteiskunta, jossa ihmisen arvo ja yhteiskunnan arvojen perusta nousee Jumalan sanasta, Raamatusta.
+ Avioliittolain muutos tulisi väistämättä saamaan aikaan kirkollisia ja yhteiskunnallisia muutospaineita.
+Kristinuskon käsitys miehen ja naisen välisestä elinikäisestä avioliitosta joutuisi vähitellen syrjään, ja sen esillä pitäminen tulisi tuomittavaksi. 
+17.13 
+Timo Harakka sd 
+(vastauspuheenvuoro): Puhemies!
+Edustaja Niikolle toteaisin, että puolueenne on yleensä huolissaan siitä, että äärimmäinen uskonnollinen retoriikka saa poliittisia sisältöjä.
+Mielestäni se ei kuulu tänne eduskuntaan, oli uskontokunta mikä hyvänsä. 
+Teille vastauksena riittäköön kirkon ylimmän johtajan, arkkipiispa Kari Mäkisen reaktio, jossa hän totesi jo ennen eduskunnan äänestystä, että jos tasa-arvoinen avioliittolaki hyväksytään, se ei vaaranna ihmisoikeuksia eikä lasten oikeuksia.
+Kun avioliittolaki hyväksyttiin, hän ilmoitti iloitsevansa päätöksestä, ja tähän iloon yhtyy suuri osa Suomen kristillisestä kansastakin. 
+ Perustuslain 11 §:n mukaan sanotaan, että uskonnon ja omantunnon vapauteen sisältyy oikeus tunnustaa ja harjoittaa uskontoa. 
+Mutta minun uskoni lähtee siitä, että avioliitto on miehen ja naisen välinen liitto. 
+ Mutta minun näkökulmastani hän on kuitenkin palkkapaimen tässä asiassa, jos ruvetaan puhumaan Raamatun termein. 
+Mutta mitä tulee tähän avioliittolain muutokseen, niin se tulee vaikuttamaan väistämättä kirkon toimintaan
+Ruotsissa meni vain kuusi kuukautta, kun avioliittolaki muuttui, niin kirkossa alettiin vihkimään samaa sukupuolta olevia pareja, ja tästä olen huolissani. 
+Tämä kehitys tulee vaikuttamaan uskonnonvapauteen, sananvapauteen. 
+Kirkkokin perii kirkollisveroa.
+Tässä salissa on puhuttu myös uskonnosta ja rakkaudesta. 
+Uskonnonvapauden nimissä ja vanhempien tasavertaisuuden nimissä olen iloinen siitä, että jatkossa lapsen uskonnollisesta asemasta päättäminen vaatii molempien vanhempien suostumuksen.
+Minä itse ajattelen asioista niin, että politiikkaa ja uskontoa ei pitäisi kauhean vahvasti sekoittaa, mutta minä ymmärrän monien ihmisten vakaumusta ja huolta erityisesti lasten oikeuksista isään ja äitiin sekä miehen ja naisen malliin.
+Täällä — vielä palaan tähän maistraatin roolin tässä laissa — Östman ja Essayah tuossa yksi päivä ottivat esille tosiaan sen, että uskonnolliset yhdyskunnat saattavat kieltäytyä vihkimästä. 
+Kyllä kirkkokin ottaa kirkollisveroa — joskus on sanottu, että miksei voitaisi ottaa maksu avioliittoon vihkimisestä. 
+Ketään ei saa ilman hyväksyttävää perustetta asettaa eri asemaan sukupuolen, iän, alkuperän, kielen, uskonnon, vakaumuksen, mielipiteen, terveydentilan, vammaisuuden tai muun henkilöön liittyvän syyn perusteella
+14.35 
+Timo Soini sin: Arvoisa puhemies!
+Toisella puolella on sitten tietysti Israelin hallinto omana entiteettinään. 
+Kun ajatellaan Hamasia, joka on kuitenkin muun muassa EU:n, Yhdysvaltain, Kanadan ja Japanin luokittelema terroristijärjestö, joka ei käytännössä salli todellista demokratiaa Gazan alueella ja on esimerkiksi ajanut tämän Fatah-järjestön edustajat jo vuosia sitten pois Gazan alueelta, niin haluaisin kysyä vielä edustaja Guzeninalta, mihin tämä kova väite siitä, että nimenomaan Israel estää demokratiaa palestiinalaisten keskuudessa, perustuu. 
+ Nyt jos me täällä tulkitsemme näin, että suurin este demokratian tiellä on Israelin miehitys, mikä lukee täällä kirjaimellisesti näin, mutta emme mainitse sitä, mikä täällä mainitaan, että suurimmat esteet demokratian tiellä voisivat olla vaikka ihmiskauppa, perheväkivalta tai kuolemantuomiot, joita Hamas tekee siellä jatkuvasti omille kansalaisilleen, niin tämä tulisi myös mainita asian oikeassa valossa. 
+Minäkin haluan kiittää edustaja Raatikaista hänen puheenvuorostaan ja pidän myöskin aivan itsestäänselvänä, että mikäli halutaan käsitellä Palestiinan ihmisoikeustilannetta tai demokratian kehittymistä, niin kyllä sen keskustelun keskiössä silloin pitää myöskin olla Israelin valtion miehitys, joka ei ole millään tavalla erotettavissa siitä muusta kehityksestä sillä alueella.
+Minusta on tässä yhteydessä syytä huomauttaa, että kansainvälisen lain mukaanhan se on viime kädessä Israelin eli miehittäjävaltion vastuulla vastata väestön hyvinvoinnista miehitetyillä alueilla. 
+Vielä kommenttina edustaja Niikolle, että niin kauan kuin Israel ei kanna vastuuta kehityksestä Länsirannalla tai siitä humanitaarisesta kriisistä, joka ollaan nähty Gazan kaistaleella, niin ehdottomasti on edelleen myöskin Suomen myöntämälle kehitysavulle isokin tarve sillä alueella.
+Ihan kommenttina tähän kertomukseen, kun täällä edustajat Niikko ja Elo mainitsivat tästä Palestiina- ja Israel-jutusta: Olen nyt kuitenkin asunut siinä maassa viisi ja puoli vuotta, myös Palestiinan puolella Gazassa ja Länsirannalla sekä Israelissa. 
+Siskoni asuu vakituisesti Israelissa, hänellä on siellä perhe, ja sitä kautta siellä on tullut paljon käytyä. 
+Israeliin kohdistuu jatkuva ja kasvava terrorin uhka sekä palestiinalaisalueilta että ympäröiviltä konfliktialueilta.
+Tämän ilmoituksen jälkeen Israelissa on nähty lukuisia terrori-iskuja siviilejä kohtaan ja mellakoita Länsirannalla. 
+Mutta rauhanprosessin vauhdittamisen sijaan EU:ssa puuhataan israelilaisten siirtokuntatuotteiden merkintää ja boikottia. 
+24 Timo Heinonen kok: Arvoisa puhemies!
+Elokuvat, tv, musiikki ja tanssi kiellettiin, 1 800 vuotta vanhat Buddha-patsaat tuhottiin, urheilu kiellettiin, naisten työnteko kiellettiin, tyttöjen koulunkäynti kiellettiin, kasvojen paljastaminen tiesi ruoskatuomiota, talojen ikkunat oli kaikki peitettävä ja miehiinkin kohdistettiin erilaisia määräyksiä.
+Aerobikkiin ja joogaan mutta myös ohjattuihin pyörävaelluksiin ja myös patikkavaellukseen ja ratsastukseen käytetään ylempää alvikantaa.
+Henkilökohtaisesti en ymmärrä sitä, että kun liikuntayrittäjä pitää joogatuntia kymmenelle ihmiselle ja liikuttaa kättä vaikka sen koko tunnin, niin alvi on alempi, ja sitten kun sama liikuntayrittäjä liikuttaa niitä samaa kymmentä henkilöä seuraavan tunnin tennismaila kädessä, niin alvi nousee. 
+ Eli kovaa talouspolitiikkaa ovat murtomaahiihto ja jooga.
+Lisäksi tähän halua todeta sen, että monestihan tämän asian ongelmaksi tekevät juuri nämä niin sanotut ateistiset ihmiset, eivät vaikkapa hindut tai jonkun muun uskonnon tunnustajat.
+Niin kuin tuossa puheessani kerroin, niin Vantaalla tosiaankin tamili-hindut harkitsevat parhaillaan uskonnonopetuksen aloittamista, ja heilläkin on tosiaan siihen oikeus, mikäli kunnasta löytyy kolmekin lasta, jolle huoltajat haluavat tätä opetusta järjestää.
+Mutta jos kannatat perusarvoja, ja varsinkin jos et niitä kannata, et sinä ole fobinen, sinä olet ateisti, pakana tai agnostikko.
+Uskonnot kuten hindulaisuus ovat luonnollinen ja näkyvä osa suomalaista kulttuuria ja yhteisöllistä elämänmenoa, jonka merkitys on kirkastunut koronan eristyksen aikana. 
+ Esitin toiveen, että uskonnolliset johtajat ilmaisisivat omalla esimerkillään, että vihaan yllyttäminen on väärin ja että uskontojen kuten buddhalaisuuden väliseen vuoropuheluun tarvitaan kaikkia osapuolia.
+Mitä olemme Suomen Etyj-valtuuskunnassa sitten tehneet viimeisen kuluneen vuoden aikana kuin puhuneet joogasta?
+14.25 
+Riikka Purra ps :
+Arvoisa puhemies!
+Suomalainen kantaväestö tai maamme valtauskonto eivät ole myöskään oikeuskäytännössä saaneet samanlaista lainsuojaa kuin eräät vähemmistöuskonnot ja kansallisuudet tai lähtömaat.
+Valtakunnansyyttäjä on nostanut syytteen 15 vuotta vanhasta kirjoituksesta, jossa avioliittokäsitystä perustellaan Raamatulla.
+Vastaavaa ei tapahdu muiden uskontojen kohdalla. 
+Jokainen ymmärtää, että ne äärimuslimit, jotka otsasuonet pullistuneena huutavat kuolemaa vääräuskoisille, ovat niitä todellisia vihapuhujia, ja heidän saarnoilleen pitääkin asettaa ehdoton nollatoleranssi.
+Nyt halutaan kuitenkin hiljentää myös kyseisiä vihasaarnaajia kohtaan osoitettu kritiikki, koska vellihousut pelkäävät islamia.
+Islam onkin vaarallinen ideologia, joka tuhoaa tämän kansakunnan, jos valtiojohto toimii pelkurimaisesti.
+Minä en halua kuulla Helsingin kaduilla minkäänlaista uskonnollista karjuntaa, jossa vaaditaan naisten alistamista ja maahan sharia-lakia.
+Jos maailma olisi terve, islamin harjoittaminen kiellettäisiin varmasti kokonaan.
+Tämä asia kytkeytyy kiinteästi toimiviin kotouttamiskäytänteisiin, kuten myös muslimiyhteisöjen rooliin radikaalin islamismin ehkäisemiseksi.
+Jo nykyisellään ääri-islamismin rahoittajat investoivat ilmaista ruokaa ja stipendejä tarjoaviin ideologiaansa edistäviin kouluihin köyhissä muslimimaissa.
+Presidentti Karzain Afganistanissa voi kuolemantuomion saada jumalanpilkasta. YK:n raportin mukaan puolet naisvangeista istuu tuomiotaan sharian rikkomisesta tai muista moraalirikoksista.
+Toinen kysymys, joka teillä oli, liittyi siihen hypoteettiseen pohdiskeluun, kun me usein lännessä arvioidessamme ääri-islamilaisia liikkeitä emme näe sitä, että nämä nauttivat ympäri maailman tukea aidosti, ja se tuki usein tulee siitä, että uskonnollisena liikkeenä ne ovat korruptiovapaita.
+Ei kai vain ole niin, että ääri-islamistien sosiaaliset ohjelmat kykenevät paremmin tavoittamaan väestön kuin suurella rahalla aikaansaadut kansainväliset projektit?
+Ei kai vain ole niin, että fundamentalisti-islamistit ovat ainoa uskottava korruptiota kaihtava poliittinen voima maassa?
+Myös islamilaisten maiden kongressi on Saudi-Arabian tavoin ollut halukas välittämään Karzain hallinnon ja talebanien välillä, samoin Pakistan, jonka vaikutusvaltaisella tiedustelupalvelulla on kiinteä suhde ainakin Afganistanin tale- 22 Torstaina 18.2.2010 10/2/6 baneihin.
+Mutta mielenkiintoista on se, että talebanien rahoituksessa suurta osaa näyttelee ulkomailta tuleva rahoitus, ennen kaikkea Persianlahden alueelta eri säätiöistä, ääri-islamilaisista säätiöistä, tuleva rahoitus, mutta myös Pakistanista ja Pakistanin tiedustelupalvelulta tuleva rahoitus.
+ Minun on vaikea nähdä, että Raamattuun perustuva puhe kohtaisi tämän lain vuoksi ongelmia. 
+ Kun puhumme esimerkiksi Raamatun pohjalta toisia ihmisiä kunnioittaen, voimme puhua eri kanavilla vapaasti. 
+ Jos jollakulla teistä kristillistä vakaumusta on — ja sanon, että Raamatusta löytyy paljon viisautta kaikille muillekin — Raamatussakin sanotaan näin Saarnaajan kirjassa: ”On parempi olla lupaamatta kuin luvata ja jättää lupaus täyttämättä.” 
+Eli kun Suomessa tällä hetkellä Päivi Räsänen on epäiltynä kiihottamisesta kansanryhmää vastaan, jossa on Raamatun siteeraamisesta ollut kyse, niin tämä on aika kyseenalainen juttu, [Eva Biaudet’n välihuuto] kuka vetää sen rajan, mikä on kiihottamista ja mikä ei.
+"Joka vitsaa säästää, se vihaa lastaan; mutta joka häntä rakastaa, se häntä ajoissa kurittaa", sanotaan Raamatussa. 
+19.29 
+Antero Laukkanen kd :
+Arvoisa rouva puhemies!
+ Itse kristittynä uskonnonvapauden näkökulmasta ajattelen, että kristinuskon ydin on se, että Jeesus Kristus on kuningas ja herra.
+Hän oli juutalainen, ja hänet ympärileikattiin kahdeksan päivän ikäisenä.
+Se on minulle iso henkilökohtainen uskonnonvapauskysymys.
+Kun sananvapauskeskustelussa Raamatun siteeraaminen on viime päivinä ollut esillä ja jopa kiistanalaista, niin siteeraan nyt tässäkin yhteydessä Raamattua liittyen vihapuheeseen, jos puhemies sen sallii. 
+Nimittäin 2 000 vuotta vanhassa varsin laajaa arvostusta nauttivassa vuorisaarnassa Jeesus määrittelee vihapuheen suhteen viidenteen käskyyn, ”älä tapa”, kun hän sanoo näin: ”Teille on opetettu tämä isille annettu käsky: ’Älä tapa.’ 
+No, tässä ei tietenkään Jeesus selittäessään tätä viidettä käskyä puhu maallisen lainsäädännön tuomioista, että minkälaisia tuomioita pitäisi asettaa maallisessa oikeudenkäynnissä henkilölle, joka haukkuu lähimmäistään, vaan puhuu ylipäänsä siitä eettisestä periaatteesta, että tällaisella pilkkaavalla ja kunniaa, nimenomaan kunniaa, loukkaavalla puheella on yhteytensä viidenteen käskyyn, jota hän selittää, eli tähän ”älä tapa” käskyyn.
+Mutta tässä tietenkin puhutaan siitä, että lopulta me kaikki olemme ikään kuin Jumalan edessä samalla viivalla myös tämän viidennen käskyn suhteen. 
+ Nimittäin Yle uutisoi tänään, että vanhemmat ovat oppineet vaatimaan uskonnottomia joulujuhlia ja koulujen juhlissa nähdään Jeesus-lapsen sijaan metsäneläimiä ja tonttu-ukkoja. 
+17.52 
+Anna Kontula vas :
+Arvoisa puhemies!
+Toinen vahva juuri on kirkon ja laajemmin kristillisen liikkeen vuosituhantisessa terveystyössä.
+Se alkoi Jeesuksesta, joka paransi sairaita papereita kyselemättä. 
+Tämä esimerkki vaikuttaa edelleen läpi koko kristillisen maailman, myös Suomessa kristittyjen toimintaan.
+Kristillinen radikaalius on siinä, että lähimmäisiin lasketaan myös tuntemattomat, että apua tarvitsevaa autetaan, oli hän omaa tai toista seurakuntaa, oli hän omaa tai toista kansaa. 
+Mutta, arvoisa edustaja Heinonen, haluaisin teille, arvostamalleni edustajalle ja ystävälleni, antaa kuitenkin pienen moitteen puheenvuorossanne käyttämästänne sanavalinnasta, jossa epäasiallisella tavalla mielestäni käytettiin Jeesuksen nimeä.
+Joulu, se on paitsi kristillinen juhla, se on myös vahvasti suomalaisen kulttuurin ja perinteen juhla, ja sitä odotetaan pitkän syksyn jälkeen. 
+Esimerkiksi ”Enkeli taivaan lausui näin”-virsi on ollut suomalaisessa virsikirjassa jo vuodesta 1605.
+Perussuomalaiset ovat surullisena seuranneet viime päivien uutisia, jotka aina aika ajoin toistuvat, että suomalaisen kulttuurin ja perinteiden poistamista havaitaan kouluissa ja ilmeisesti pelätään, että joku loukkaantuu enkeleistä tai Jeesus-lapsesta seimessä.
+Meillä on vapaus ja uskonnonvapaus. 
+Haluaisin nyt Suomen pääministeriltä vahvistuksen siihen, että kouluissa uskalletaan jatkossakin rohkeasti juhlia suomalaisia perinteitä ja laulaa ”Enkeli taivaan lausui näin”.  
+Sananvapauden sijaan on alettu korostaa sananvastuuta ja oikeuslaitoksissa sovelletaan pykälää ”Kiihottaminen kansanryhmää vastaan” hyvin tulkinnanvaraisesti kuten myös uskonrauhanrikkomispykälää.
+Kristinusko tosin ei ole oikeuskäytännössä saanut samanlaista lainsuojaa kuin eräät vähemmistöuskonnot ja kansallisuudet. 
+Tämänhän me nyt kaikki tiedämme, että Jeesusta saa pilkata.  
+Mutta Muhammedia ei.
+Perussuomalaiset vaativat kiihotus ja uskonrauhapykälien järkeistämistä, mutta tämä lakialoite nyt koskee tätä kiihottamista kansanryhmää vastaan.
+Minkä takia Jeesusta saa pilkata?
+ Minkä takia islam nauttii erityistä lainsuojaa?
+On totta, ja mekin nimenomaan kannatamme sitä, että kirkon tulee itse saada tehdä omat päätöksensä, mutta nyt täytyy huomioida, että kirkolliskokous ei ole tehnyt sellaista päätöstä, että kirkon sisällä alettaisiin laillisesti vihkimään samaa sukupuolta olevia pareja.
+Jeesuskin oli kapinallinen aikanaan!
+ Piispat ovat olleet tämän takana, ja silti tuo voimaan astuva lainsäädäntö nyt yhtäkkiä muuttaakin tilanteen niin, että ainakin joidenkin oikeusoppineiden mielestä nämä liitot ovat juridisesti päteviä, joihin kirkon papit vastoin kirkon kantaa suorittaisivat vihkimisiä.
+Avioliittoon vihkiminen on osa uskonnon harjoittamista kirkon sisällä, eli mielestäni tässä kyllä loukataan nimenomaan tätä uskonnon harjoittamisen ja kirkon autonomian periaatetta. 
+Lutherin virren sanoin: "Jumala ompi linnamme."
+Toisen maailmansodan aikana Suomessa rukoiltiin varmasti enemmän kuin koskaan.
+ Rukoiltiin Jumalaa, joka on säätänyt ihmisten asumisen ja valtakuntien rajat.
+Vastaavasti liberaaliin ja maalliseen maailmankuvaan ei mahdu mukaan hengellisyys. 
+Se yrittää siirtää uskon Jumalaan pois yhteiskunnan keskiöstä sen viimeisimpään nurkkaan.
+Uskosta ja rukouksesta on tehty pahe.
+Siksi myös tämän selonteon yhteydessä meidän on tarpeen muistaa sellaisia tilanteita, joita presidentti Kallio tarkoitti sanoessaan "Herra Jeesus Kristus, ilman sinua olemme voimattomia hävittäviä voimia vastaan." 
+Toinen asia, mistä pitää pitää huoli, on se, että kirkollisen avioliiton vihkimistä koskevat säädökset ja käytännöt ovat hajanaisesti avioliittolaissa, kirkkolaissa ja kirkkojärjestyksessä.
+ Koska on jo ilmennyt epätietoisuutta siitä, voiko pätevän kirkollisen vihkimisen toimittaa vastoin uskonnollisen yhdyskunnan itselleen määräämiä muotoja ja ehtoja, tulee asiaa koskevaa sääntelyä täsmentää kirkollisen autonomian säilyttämiseksi vihkimisessä. 
+18.55 
+Satu Hassi vihr :
+Arvoisa puhemies! 
+ Mutta koska niin monet käyttävät argumenttina kristinuskoa ja Raamattua, kertaan hieman sitä, miten historian aikana, Suomen itsenäisyyden aikana, jopa oman elämäni aikana käsitykset ovat muuttuneet siitä, mikä on kristillinen avioliitto ja mikä ylipäätänsä on hyväksyttävää. 
+Nykyisin kristillisyyttään voimakkaasti esille tuova ihminen saattaa erota aviopuolisostaan, mennä uusiin naimisiin ja elää avoliitossa.
+Kun olin teini, avioliiton ulkopuolisia sukupuolisuhteita pidettiin suurena syntinä.
+ Koulun uskontotunnilla luimme Raamatusta, että Jeesus kieltää eronneita menemästä uusiin naimisiin. 
+Koulusta, jota kävin, erotettiin lukiolaistyttö siksi, että hän oli tullut raskaaksi.
+1990-luvulla katolinen tutkija John Boswell julkaisi tutkimuksen varhaisen kirkon suhtautumisesta miesten välisiin liittoihin.
+ Keisari Konstantinus, joka teki kristinuskosta virallisen valtionuskonnon, kielsi 300-luvulla homoseksuaaliset liitot. 
+Mutta vielä niinkin myöhään kuin vuonna 1061 Espanjan Galiciassa Rairiz de Veigan kunnassa pappi vihki kappelissa kaksi miestä, Pedro Diazin ja Muño Vandilazin. 
+Mitä tulee Vanhaan testamenttiin, niin siitä saa hyvin monenlaista avioliiton mallia.
+Raamattuun vetoajien on siis hyvä muistaa, että Raamatusta saa hyvin monenlaista ohjetta ja se, miten Raamattua luetaan, on kaikkina aikoina ollut sidoksissa yhteiskuntaan ja aikakauteen, jota eletään. 
+Vetoamalla Raamattuun tai perinteeseen emme oikeasti pääse puusta pitkään. 
+ Uskonnolliset yhdyskunnat säätävät itse omat sääntönsä.
+Jos uskallan Raamattua ulkomuistista siteerata, eikö siellä sanota jotain sentapaista, että ei ole kreikkalaista ja juutalaista, ei herraa eikä orjaa, olemme kaikki samaa Jeesuksessa Kristuksessa?
+Tällainen lavean tien kulkijakin löytää Raamatusta hyviä, tähän aikaan sopivia vertauskuvia.
+Raamatun, vieläpä Markuksen evankeliumin, mukaan Jeesus meni Jerusalemissa temppeliin. 
+Jeesus suuttui ja kaatoi rahanvaihtajien pöydät. 
+Euroalueen talouskriisiä arvioidessa Raamatun opetukset tulevat pakosta mieleen.
+Mutta meno on toisenlaista kuin Jeesuksen aikaan: kun markkinamiehiin kyllästynyt Jeesus tyhjen-si temppelin, nyt markkinamiehet tyhjentävät tomppelin. 
+Kolmantena haluan heittää vielä erään asian loppuun, koska olen kolme vuotta lukenut myös teologiaa ja minulla on omanlainen käsitys Raamatusta, niin kuin varmaan meillä kaikilla.
+ Huovinen mainitsi siitä, että on kristitty ja ei saa loukata toisen arvomaailmaa. 
+Itse en ole tätä asiaa vielä nostanut esille, mutta heitän nyt tämmöisen vaan: "Kristitty" oli aikanaan Raamatussa oleva haukkumanimi, joka tuli opetuslapsille, kun he seurasivat Jeesusta.
+"Kristitty" tarkoittaa ’Kristuksen kaltaista’, sitä että haluaa seurata Kristusta — se on yksiselitteinen Raamatun antama teologinen totuus. 
+Ja Jeesus sanoi itse näin Raamatussa Matteuksen evankeliumissa: "Ei jokainen, joka sanoo minulle: "Herra, Herra!", pääse taivasten valtakuntaan, vaan se, joka tekee minun taivaallisen Isäni tahdon."
+Juho Eerola ps:
+Arvoisa herra puhemies!
+Kuulun evankelisluterilaiseen kirkkoon. 
+ Minussa on hieman agnostikon ja epäilevän tuomaan vikaa, mutta tiukan paikan tullen uskon Kolmiyhteiseen Jumalaan ja siihen, että Jeesus on tie, totuus ja elämä.
+Jos olisin tiukkamielinen ääriprotestantti, pitäisin muita uskontoja harhaoppeina ja niiden harjoittajia väärän profeetan palvelijoina.
+Olen kuitenkin suvaitsevainen enkä pidä omaa uskontoani ainoana, ehdottomana ja virheettömänä.
+ Se ei silti tarkoita sitä, että haluaisin oikopäätä ryhtyä pilkkaamaan Jumalaa. 
+Toisaalta katson, että Jumala on kaiken pilkanteon yläpuolella. 
+19.29 Antero Laukkanen kd: Arvoisa rouva puhemies!
+Laki jumalanpilkasta onkin lähinnä jumalattomia varten: niitä, jotka laillani eivät ole suvaitsevaisia ja avarakatseisia. 
+ Tämä nyt voimassa oleva jumalanpilkkalaki estää yhteiskunnallisen keskustelun. 
+ Voit saada tuomion siitä, jos arvostelet eläinten rituaalinomaista teurastusta, pienten tyttöjen ja poikien ympärileikkausta tai lapsiavioliittoja, joihin mahdollisesti jonkun profeetaksi nimetyn omat mieltymykset muka oikeuttavat.
+ Edelleen voit saada tuomion siitä, jos epäilet johonkin uskontokuntaan kuuluvien henkilöiden maahanmuuton seurauksena terrorismin uhan Suomessa lisääntyvän, huoltosuhteen heikkenevän ja perusturvallisuuden vähenevän. 
+ Kaikki uskonnot eivät ole pelkästään uskontoja. 
+Kannatan Jussi Halla-ahon lakialoitetta, ja jos siinä väärin teen, niin Jumala minua rangaiskoon.
+ Aloitetta ja avioliittoa ei pidä eduskunnassa eikä muutenkaan hämmentää uskonnolla, tai jos niin halutaan välttämättä tehdä, niin kysymys kuuluu: miten Jeesus olisi tässä tilanteessa toiminut ja äänestänyt?
+Tuolloin vuoden 2002 päätöksessä perustuslakivaliokunta katsoi, että erilaiset koulujen perinteisiin kuuluvat tilaisuudet, kuten lukukauden päättäjäiset, ovat suomalaista kulttuuria ja ne eivät ole ristiriidassa uskonnonvapauden kanssa siitä syystä, että tällaisessa tilaisuudessa laulettaisiin yksittäinen virsi ja että tämän johdosta, jos yksikin virsi lauletaan, tilaisuus olisi millään tapaa uskonnon harjoittamista.
+Perustuslakivaliokunta perusti tämän ratkaisunsa perustuslain 11 §:n 1 momenttiin, jossa turvataan jokaiselle uskonnon ja omantunnon vapaus.
+Jokainen saa tunnustaa ja harjoittaa uskontoa oman vakaumuksensa mukaisesti, kenenkään ei tarvitse kuulua mihinkään uskonnolliseen yhdyskuntaan, eikä kenenkään tarvitse osallistua mihinkään uskonnolliseen tilaisuuteen.
+Tämän lisäksi ratkaisussa on myöskin otettava huomioon Euroopan ihmisoikeussopimus ja sen 9 artikla, jossa turvataan oikeus ajatuksen, omantunnon ja uskonnon vapauteen, ja tämän lisäksi Euroopan neuvoston sopimusverkostossa, sen ihmisoikeussopimuksen ensimmäisessä lisäpöytäkirjassa, sen 2 artiklassa, turvataan vanhemmille oikeus varmistaa heidän lapsilleen omien uskonnollisten ja aatteellisten vakaumusten mukainen kasvatus. 
+Hän totesi päätöksessään, että "- - uskonnonvapauden yhteensovittamiseen tähtääviä järjestelyjä perustellumpaa olisi se, että kouluissa ei lainkaan järjestettäisi opettajien tai muun koulun henkilökunnan tai seurakunnan työntekijän johtamia tilaisuuksia, joissa on tietyn vakaumuksen mukaista sisältöä".
+Mitä tulee sitten ihmisoikeustuomioistuimen ratkaisuihin, niin tältä osin tosiaan voidaan todeta tämä niin sanottu Lautsin tapaus, jossa kysymys oli siitä, että italialaisissa kouluissa on krusifiksi seinällä.
+Eli ei saa koulussa pyrkiä iskostamaan tai juurruttamaan mitään uskonnollista vakaumusta tai mitään muutakaan vakaumusta. 
+Sen lisäksi myöskin Norjassa oli niin sanottu Folgerøn tapaus, jossa sitten lähdettiin siitä, että pitää voida olla, esimerkiksi hyvin kristillisessä maassa, kristillistä opetusta, mutta silloin, kun se on vahvasti uskonnollista, pitää olla mahdollisuus myöskin saada vapautusta tämäntyyppisestä opetuksesta.
+ Perustuslakivaliokunta totesi: "Perustuslakivaliokunnan mielestä perustuslaista tai Euroopan ihmisoikeustuomioistuimen käytännöstä ei johdu vaatimusta poistaa koulun toiminnasta kaikkea uskontoon viittaavia elementtejä sisältävää ainesta.
+ Pitkälle viety uskonnollista alkuperää olevien perinteiden välttäminen ei valiokunnan mielestä myöskään edistä uskonnollista suvaitsevaisuutta."
+Ja tämä on olennaista: se, että pitää suvaita myöskin uskonnollista sisältöä ja koulu ei voi olla täysin neutraali, ei voida hävittää kaikkea historiaa, taustaa kouluopetuksesta ylipäätänsä lainkaan.
+17.56 
+Mikko Kinnunen kesk:
+Arvoisa herra puhemies! 
+Olennaista on kuitenkin se, että pyritään edistämään uskonnollista suvaitsevaisuutta. 
+Myöskin tärkeätä on se, että pyritään siihen, että ollaan neutraaleja ja on uskonnollinen suvaitsevaisuus ja moniarvoisuus.
+Olennaista on tässä päätöksessä myöskin se, että yksittäisen virren laulamisen johdosta ei voida tilaisuutta pitää uskonnon harjoittamisena. 
+Ensimmäisessä säkeistössä sanaa "Jumala" ei mainita, toisessa säkeistössä on yhden kerran sana "Jumala", kolmannessa sitten on kyllä jo sanat "Herra", "Luoja" ja "Herra", ja sitten neljännessä on "Jeesus Kristus", ja sen jälkeen viidennessä ja kuudennessa ei ole Jumala-sanaa.
+ Sitten valiokunta otti myöskin kantaa jumalanpalveluksiin, ja tältä osin täytyy sanoa, että niittenhän täytyy ilman muuta olla vapaaehtoisia.
+ Sitten, jos meillä on uskonnollisia päivänavauksia, niin että niissä on selvästi uskontoa, myöskin niihin osallistumisen täytyy olla selvästi vapaaehtoista.
+17.03 
+Ulkoasiainministeri Timo Soini 
+(vastauspuheenvuoro): Arvoisa herra puhemies!
+Joulu säilyy edelleen Jeesuksen Kristuksen syntymäjuhlana.
+Ja tosiaan Raamatun tulkintaa on tehty vuosisatoja, ja siihen on muitakin tulkintoja kuin se, mikä on vallitseva. 
+Yksi esimerkki näistä Raamatun tulkinnoista liittyy tosiaan siihen sanaan, jota Jeesus käyttää puhuessaan miehistä, joita Jumala ei ole luonut menemään naisen kanssa naimisiin: käytetään sanaa "eunukki", mutta alkukielellä nimenomaan käytettiin sanaa, jota siihen aikaan käytettiin kuvaamaan homoseksuaaleja miehiä.
+Eli heidän pitäisi kieltäytyä noudattamasta Jumalan heille luomaa seksuaalisuutta?
+On hyvä, että puhutaan välillä teologisiakin näkökantoja, ja edustaja Kasvi on oikeassa siitä, että Jumala on rakkaus ja Jeesus käskee rakastamaan lähimmäisiään.
+ Joten täytyy olla hiukan eksyksissä, jos Raamattua tulkitsee omien tavoitteittensa mukaisesti, koska on selvää, että Jumala ei kehota sellaiseen rakkauteen, joka on vastoin hänen omia normejaan ja moraalikäsityksiään, mitä hän on Raamatussa antanut. 
+ Esimerkiksi Raamatulla on historian saatossa puolustettu muun muassa orjuutta, rotuerottelua ja lapsiavioliittoja sekä vastustettu avioeroja ja naisten äänioikeutta. 
+ En nyt lähde agnostikkona siteeraamaan Raamattua, vaikka se on sinänsä hyvin mielenkiintoinen kirja. 
+Sen sijaan suosittelen lukemaan Raamattua avoimin silmin, esimerkiksi sen, mitä Samuel kirjoittaa Daavidin ja Joonatanin rakkaudesta tai mitä Jeesus sanoo miehistä, jotka Jumala on luonut sellaisiksi, että heidän ei tule mennä naisten kanssa naimisiin. 
+Tai kuten kirkkohäissä usein rakkaudentunnustuksena lausutaan: "Minne sinä menet, sinne minäkin menen, ja minne sinä jäät, sinne minäkin jään." 
+Ja jos on oikeasti kiinnostunut Raamatusta, kannattaa tutustua myös siihen, miten muun muassa nämä kohdat on kirjoitettu alkukielessä.
+Harvaan asutulla seudulla riittävän väljä kokoontumistila voi olla kirkko.  
+Apulaisoikeusasiamies piti lähtökohtaisesti ongelmallisena koulun päättäjäisjuhlan järjestämistä evankelis-luterilaisen kirkon kirkkosalissa.
+Päätös ei koskenut koulun järjestämiä vapaaehtoisia joulukirkkokäyntejä, joille on järjestetty myös tunnustukseton vaihtoehto. 
+Esimerkiksi kotikunnassani Reisjärvellä kaikki koulut kokoontuvat vuosittain joulukirkkoon, jonka rinnalla tarjotaan vaihtoehtoista ohjelmaa Opetushallituksen ohjeen mukaisesti. 
+Moni kirkkoon kuulumaton haluaa vapaaehtoisesti liittyä yhteiseen jouluperinteeseen.
+Joulukirkko koetaan osaksi vuodenkiertoa ja suomalaista kulttuuriperinnettä. 
+10.34 
+Päivi Räsänen kd: Arvoisa herra puhemies! 
+Tämä lakiesitys todellakin koskettaa kansalaisten perusoikeuksia, yksityisten elinkeinonharjoittajien oikeuksia samoin kuin myös osaltaan uskonnonvapautta. 
+Ja totean, että mielestäni on hyvä, että hallitus ei ulottanut tätä tilojen sulkemisen mahdollistavaa 58 g §:ää uskonnon harjoittamiseen, mutta lausuntokierroksella olleeseen versioon nähden nämä 58 c ja d §:ien määräykset on nyt kohdistettu myös kirkoille, seurakunnille ja muille uskontokunnille.
+Ja toteankin, että uskonnolliset yhteisöt ovat todellakin noudattaneet jo tosiasiallisesti hyvin säntillisesti annettuja suosituksia ja ohjeita, niin hygieniaa, turvaetäisyyksiä kuin myös sitten toimitilojen sulkemista seurakuntaväeltä, mutta periaatteellisesti mielestäni on kuitenkin erittäin tärkeää, että tässä kiinnitetään huomiota siihen, että meillä sekä perustuslaissa että Suomea sitovissa kansainvälisissä ihmisoikeusvelvoitteissa uskonnonvapaudelle on säädetty hyvin vahva tila. 
+Jos uskonnonvapauteen kajottaisiin niin voimakkaasti, että viranomaiset, siis ihan yksittäiset viranomaiset, voisivat määrätä kirkkoja suljettavaksi, niin kyllä sen mielestäni tulisi tapahtua poikkeusolojen ja valmiuslain kautta, ei siis tavallisen lain ja yksittäisten viranomaisten harkinnan pohjalta. 
+Ja kyllä mielestäni tässä koko kokonaisuudessa perustuslakivaliokunnassa tulee hyvin huolellisesti arvioida sekä näiden 58 c ja d §:ien vaikutusta uskonnonvapauteen että sitten tämän g §:n vaikutusta elinkeinonharjoittajien vapauteen, ja voidaan kysyä sitä, olisiko sitten kuitenkin parempi edetä silloin, kun mennään näin vahvasti näiden perusoikeuksien alueelle, todellakin valmiuslain ja poikkeusolojen kautta.
+Tässä lakikokonaisuudessa onneksi nämä ovat määräaikaisia, eli nämä on säädetty olemaan voimassa vuoden 2021 loppuun saakka ja koskemaan räätälöidysti nimenomaan tätä covid-epidemiaa, mutta itse toivon, että pysyvään tartuntatautilakikokonaisuuteen ei jäisi suoraan perusoikeuksiin kajoavia toimia, ei varsinkaan uskonnonvapauden alueelta. 
+Täällä on käytetty erittäin hyviä puheenvuoroja nyt kirkkotilojen käytöstä ja joulujuhlista, ja pitäisin erittäin arvokkaana sitä, jos oikeusasiamies voisi vielä täsmentää tämän viimevuotisen linjauksen perusteluja. 
+Muistutan siitä, että kun uskonnonvapauslakia käsiteltiin, niin perustuslakivaliokunta linjasi silloin, ettei valiokunnan tarkoituksena ole ollut muuttaa käytäntöjä erilaisten koulun perinteeseen kuuluvien tilaisuuksien, kuten lukukauden päättäjäisten, osalta. 
+Todellakin se on täysin ymmärrettävää, että kaikille tarkoitettu yhteinen joulujuhla on uskonnonvapauslain mukainen ja että siihen kaikki voivat osallistua.
+ Toki ovat sitten vielä erikseen nämä joulukirkkotilaisuudet, siis jumalanpalvelustilaisuudet, joista sitten voivat kieltäytyä ne, jotka ovat uskonnottomia tai edustavat toista uskontoa. 
+Mutta nimenomaisesti tämä kirkkotilan käyttö kaikille tarkoitetussa joulujuhlassa tai koulun päättäjäisjuhlassa minun ymmärtääkseni on kuulunut hyvin monella paikkakunnalla siihen koulun perinteeseen, nimenomaan näissä lukukauden päättäjäistilaisuuksissa. 
+Tässä edustaja Rantanen sivusi näitä uskonnollisia yhteisöjä, ja minulla on kyllä päinvastoin kuin edustaja Rantasella sellainen käsitys, että uskonnolliset yhteisöt ovat erittäin hyvin ja täsmällisesti noudattaneet jo suositusten pohjalta näitä erilaisia rajoituksia.
+Meillä on tämä yksi Jyväskylän tapaus, jossa oli kysymys ranskankielisestä afrikkalaistaustaisesta yhteisöstä, mutta saamani tiedon mukaan siinä ei ollut kysymys edes jumalanpalveluksesta vaan syntymäpäiväjuhlista eikä ymmärtääkseni kysymys edes rekisteröidystä uskonnollisesta yhdyskunnasta vaan tällaisesta vapaamuotoisesta yhteisöstä, joita tietenkin koskevat ihan samat säännöt ja periaatteet kuin muitakin yhdistyksiä. 
+Jos uskonnonvapauteen kajottaisiin niin voimakkaasti, että viranomaisilla olisi mahdollisuus määrätä esimerkiksi kirkkoja tai jumalanpalvelustiloja suljettavaksi, niin kyllä sen mielestäni nimenomaan perusoikeusnäkökulmasta ja uskonnonvapauden vahvan aseman vuoksi tulisi tapahtua silloin ihan poikkeusolojen ja valmiuslain kautta, ei siis tavanomaisen lainsäädännön kautta, jolloin yksittäinen viranomainenkin voisi tämän päätöksen tehdä. 
+Mutta samanaikaisesti täytyy voida sanoa, että valtakunnansyyttäjän toimet ovat hämmästyttäneet ja huolestuttaneet, koska sanan-, mielipiteen- ja uskonnonvapauden piiriin kuuluvista asioista — ainakin niin kuin ne ovat vuosikymmenten ajan kuuluneet sanan-, mielipiteen- ja uskonnonvapauden piiriin — on viime aikoina tuon tuostakin tullut syytettä, syytettä kiihottamisesta kansanryhmää vastaan tai vihapuhesyytöksiä valtakunnansyyttäjän taholta.
+Tämä on valtavan laaja kokonaisuus, josta voisi nostaa esiin monta kulmaa, ja täällä edustajat ovat käyttäneet jo erittäin hyviä puheenvuoroja, joihin voi yhtyä, mutta itse nostan nyt esiin vain yhden kannanoton koulujen uskonnollisista juhlista. 
+Tämä viime vuoden tapaus oli sellainen, jossa Kouvolassa koulu aikoi pitää joulujuhlan kirkossa ja apulaisoikeusasiamies antoi linjauksen, jonka mukaan koulun joulujuhlan järjestäminen kirkossa loukkaa oppilaiden uskonnonvapautta ja yhdenvertaisuutta, ja taustalla oli Uskonnottomat Suomessa ry:n tekemä kantelu.
+ Todellakin on ymmärrettävää se, että huolehditaan siitä, että jokaisella on uskonnonvapauden mukainen oikeus myös kieltäytyä uskonnollisista juhlista, ja näiden juhlien, joita järjestetään, täytyy olla sellaisia, joihin kaikki voisivat osallistua, mutta tässä yhteydessä erityisesti huomiota herätti se, että oikeusasiamies katsoi, että kirkkotila itsessään olisi ongelmallinen tällaisen koulun yhteisen juhlan järjestämiseen, joka ei välttämättä olisi uskonnollinen juhla, vaan yhteinen juhla, johon kaikki voisivat osallistua. 
+Itse toivon sitä — ja monet muutkin edustajat ottivat kantaa — että kirkon kulttuurihistorialliset tilat, kirkkotilat, voisivat olla yhteisessä käytössä silloinkin, kun ei ole kysymys jumalanpalveluksista tai uskonnollisista juhlista, vaan vaikkapa ylioppilasjuhlien järjestämisestä tai sitten näistä joulujuhlista. 
+Monilla paikkakunnilla kirkko on käytännössä se väljin tila — jossa myös turvavälejä pystytään pitämään — erilaisiin juhlatilaisuuksiin, olipa sitten konserteista tai muista juhlista kysymys.
+Toivonkin, että oikeusasiamies nyt selventäisi nimenomaan tätä kirkkotilojen käytön mahdollisuutta myös muuhun kuin puhtaasti uskonnolliseen toimintaan.
+Edustaja Laukkanen puhui uskonnonvapaudesta. 
+Minä käsitän uskonnonvapauden niin, että minun vapauteni uskontoon, se raja, menee siinä, että minä en loukkaa toisen fyysistä koskemattomuutta.
+ Minä voin harjoittaa uskontoa, mutta minulla ei ole oikeutta sen varjolla fyysisesti vahingoittaa toisia. 
+Te sallitte sen kulttuurisista perusteista, ja minun mielestäni, oli mikä tahansa kulttuuri, uskonto, uskomus, niin jos ei se vastaa nykyajan standardeja siitä, että lapsia tulee kohdella yhdenvertaisesti riippumatta heidän sukupuolestaan, niin silloin tämän uskomuksen kulttuurin on aika tulla tälle vuosituhannelle. 
+Elikkä tässä on siis tilanne, että me annamme jollekin kulttuurille, uskonnolle oikeuden vahingoittaa toista, joka ei voi siitä asiasta itse päättää.  
+Tämä lakiesitys todellakin koskettaa kansalaisten perusoikeuksia, yksityisten elinkeinonharjoittajien oikeuksia samoin kuin myös osaltaan uskonnonvapautta. 
+Ja totean, että mielestäni on hyvä, että hallitus ei ulottanut tätä tilojen sulkemisen mahdollistavaa 58 g §:ää uskonnon harjoittamiseen, mutta lausuntokierroksella olleeseen versioon nähden nämä 58 c ja d §:ien määräykset on nyt kohdistettu myös kirkoille, seurakunnille ja muille uskontokunnille. 
+Ja toteankin, että uskonnolliset yhteisöt ovat todellakin noudattaneet jo tosiasiallisesti hyvin säntillisesti annettuja suosituksia ja ohjeita, niin hygieniaa, turvaetäisyyksiä kuin myös sitten toimitilojen sulkemista seurakuntaväeltä, mutta periaatteellisesti mielestäni on kuitenkin erittäin tärkeää, että tässä kiinnitetään huomiota siihen, että meillä sekä perustuslaissa että Suomea sitovissa kansainvälisissä ihmisoikeusvelvoitteissa uskonnonvapaudelle on säädetty hyvin vahva tila.
+Jos uskonnonvapauteen kajottaisiin niin voimakkaasti, että viranomaiset, siis ihan yksittäiset viranomaiset, voisivat määrätä kirkkoja suljettavaksi, niin kyllä sen mielestäni tulisi tapahtua poikkeusolojen ja valmiuslain kautta, ei siis tavallisen lain ja yksittäisten viranomaisten harkinnan pohjalta. 
+Ja kyllä mielestäni tässä koko kokonaisuudessa perustuslakivaliokunnassa tulee hyvin huolellisesti arvioida sekä näiden 58 c ja d §:ien vaikutusta uskonnonvapauteen että sitten tämän g §:n vaikutusta elinkeinonharjoittajien vapauteen, ja voidaan kysyä sitä, olisiko sitten kuitenkin parempi edetä silloin, kun mennään näin vahvasti näiden perusoikeuksien alueelle, todellakin valmiuslain ja poikkeusolojen kautta.
+Tässä lakikokonaisuudessa onneksi nämä ovat määräaikaisia, eli nämä on säädetty olemaan voimassa vuoden 2021 loppuun saakka ja koskemaan räätälöidysti nimenomaan tätä covid-epidemiaa, mutta itse toivon, että pysyvään tartuntatautilakikokonaisuuteen ei jäisi suoraan perusoikeuksiin kajoavia toimia, ei varsinkaan uskonnonvapauden alueelta. 
+17.56 Sampo Terho sin: 
+Arvoisa herra puhemies!
+Kuten ministeri Kosonen ja edustajat Räsänen ja Aittakumpu ovat jo todenneet, meillä on säädettävänä Suomen evankelisluterilaiselle kirkolle uusi kirkkolaki, joka korvaa vuoden 1993 kirkkolain.
+Vuonna 94 voimaan tullutta kirkkolakia on muutettu yli 50 kertaa, joten kodifiointi eli lukuisten säädösten koontaminen  yhteen säädökseen on enemmän kuin  tarpeen.
+Esitys on, niin kuin ministeri kertoi, kirkolliskokouksen yksimielisesti tekemän esityksen mukainen.
+Laki on aiempaa enemmän puitelaki, joka mahdollistaa tarkemman sääntelyn kirkkojärjestyksessä.
+On tarpeen tehdä tarkempi jako kirkkolain ja kirkkojärjestyksen välillä. 
+ Kuten ministerikin totesi, esimerkiksi kirkon ja valtion suhteet säilyvät entisellään.
+ Muutokset tehostavat kuitenkin kirkon ja seurakuntien hallintoa. 
+Tavoitteena on siirtää mahdollisimman paljon kirkon sisäistä toimintaa ja hallintoa koskevaa nor-minantovaltaa kirkon omille toimielimille siltä osin kuin kyseessä eivät ole laintasoista sääntelyä edellyttävät asiat. 
+Esitys ei muuta kirkon ja valtion suhteen perusteita. 
+17.54 
+Tarja Filatov sd:
+Arvoisa puhemies!
+Kirkolla on edelleen julkisoikeudellinen erityisasema. 
+Esitys ei muuta kirkon hallinnon rakenteita kuitenkaan vaan yksinkertaistaa ja johdonmukaistaa hallintoa koskevaa sääntelyä.
+Esitykseen sisältyvä sisällöllinen uudistus toteutuu pääosin kirkkojärjestyksessä. 
+Jos muutamia nostoja näistä pienistä sisältömuutoksista teen, niin niillä on kuitenkin tärkeä merkitys kirkon toiminnalle. 
+
+Kirkko haluaa siirtyä digiaikaan. 
+Kirkon hallinnossa mahdollistetaan sähköiset kokoukset ja sähköinen päätöksentekomenettely.
+Kun toimin parikymmentä vuotta kirkon luottamustehtävissä, koin tämän selkeänä puutteena, joka nyt saa ratkaisunsa. 
+Pidän tärkeänä sitä, että kirkkolakiin lisätään seurakunnan jäsenten osallistumis- ja vaikuttamismahdollisuuksia koskeva säännös, jota tuetaan säätämällä viestinnästä  ja  tieto-jenantovelvollisuudesta.
+Lakiesityksessä kevennetään kirkon hallintoa purkamalla alistusmenettelyä: esimerkiksi kiinteistöjen luovuttamista, seurakunnan hautausmaakaavaa ja hautausmaan käyttösuunnitelmaa sekä jumalanpalveluksen alkamisajankohdan muutosta koskevien päätösten alistamisvelvollisuudesta luovutaan. 
+Uudessa kirkkolaissa tarkistetaan seurakuntajaon muutosta koskevia säännöksiä, ja kirkkolaissa säädetään seurakuntajaon muuttamisen edellytyksistä sekä seurakunnan osa-alueen hallinnon järjestämisestä, tätäkin tarvitaan. 
+Pidän hyvänä myös sitä, että kirkollista arkistointia kehitetään ottamalla kirkkolakiin ja kirkkojärjestykseen aikaisempaa kattavammat säännökset kirkollisesta arkistotoimesta.
+Kirkossa noudatettaisiin näin soveltuvin osin yleistä arkistolainsäädäntöä. 
+Suomen evankelisluterilaisen kirkon erityisellä julkisoikeudellisella asemalla on pitkä historiallinen tausta.
+13.08 
+Merja Kyllönen vas:
+Arvoisa herra puhemies! 
+Temppeli hoitaa monia tärkeitä tehtäviä, niin kuin olemme kuulleet.
+ Tämän uudistuksen jälkeen vakaumukseni mukainen lainsäädäntö on kohdillaan ja se saa toteuttaa tärkeää tehtäväänsä yhteiskunnassa oman perinteensä pohjalta.
+ On hienoa, että tämä lakiesitys etenee nyt ripeästi, jotta uskonnollinen yhteisö saa työrauhaa arvokkaassa tehtävässään. 
+ 70 prosenttia suomalaisista kuuluu uskonnolliseen yhteisöön, jonka toimintaa säätelevään lainsäädäntöön ollaan siis tekemässä nyt kokonaisuudistus, ja siksi tämä mielestäni ansaitsee perusteellisen keskustelun niin täällä istuntosalissa kuin sitten valiokunnissa. 
+Lakihan juontuu ortodoksisen keisarin ja suuriruhtinaan ajalta, jolloin valtion ja tämän uskonnollisen yhteisön suhde oli aluksi hyvinkin tiivis. 
+ Sadan vuoden aikana kirkon kytkennät valtioon ovat keventyneet ja sen julkisoikeudellinen asema kaventunut. 
+Perustuslain kirkkolakia koskevan 76 §:n tarkoitus on suojata kirkon autonomiaa, jota lisäksi vahvistavat perustuslain 11 § uskonnon- ja omantunnonvapaudesta sekä uskonnonvapauslaki. 
+Kirkon autonomiaa tukee myös se, että eduskunta voi tämänkin esityksen vain joko sellaisenaan hyväksyä tai sitten palauttaa valmisteltavaksi uudestaan kirkolliskokoukselle. 
+Esitys on todellakin pääasiassa lainsäädäntötekninen, mutta siihen sisältyy joitakin kannatettavia sisällöllisiä muutoksia: Seurakuntajaon muutosta koskevia säännöksiä tarkistettaisiin.
+Seurakunnan jäsenen vaikuttamismahdollisuuksia tuettaisiin säätämällä viestinnästä ja tietojenantovelvollisuudesta.
+Kirkon hallintoa jonkin verran kevennettäisiin luopumalla alistusmenettelystä muun muassa kiinteistöjen luovuttamista, seurakunnan hautausmaakaavaa, hautausmaan käyttösuunnitelmaa ja jumalanpalveluksen alkamisajankohtaa koskevien päätösten osalta. 
+Aloittaessani kirkollisten asioiden ministerinä vuonna 2011 sain pöydälleni esityksen, jonka liitteenä oli toistakymmentä lausuntoa ja päätöstä eri käsittelyvaiheista alkaen kirkkovaltuustosta, kirkkoneuvostosta, kirkkoherralta, tuomiokapitulilta, maanmittaustoimistolta, maakuntamuseolta, Museovirastolta, Kirkkohallituksen kansliapäälliköltä, arkkipiispalta. 
+Monen portaan läpikäynyt esitys tuli sitten opetusministeriöön, jossa sitä käsitteli ensin yliarkkitehti ja lopulta sitten kirkkoministeri. 
+Ja tämä päätös koski Peräseinäjoen sankarihautausmaan nimikilpien tekstin taustan syventämistä muutamalla millimetrillä. 
+ Vastaavat pöydälleni päätyneet esitykset koskivat muun muassa kirkon valaistuksen uudistamista ja hautausmaan aidan korjaamista. 
+Kirkollisten rakennusten suojelua koskevat säännökset eivät ole tällä hetkellä enää alisteisia opetus ja kulttuuriministeriölle. 
+ Tätä koskeva säännös lakkautettiin kirkkoministeriaikanani vuoden 2013 lopulla.
+Pienehköjen sisällöllisten muutosten sijaan huomionarvoisempaa on se, miten suurelta osin kirkkolaki säilyy keskeiseltä sisällöltään entisellään. 
+Kiinnitän erityisen huomion siihen, että kirkkolain 2 §:ssä todetaan, että kirkko tunnustaa Raamattuun perustuvaa kristillistä uskoa. 
+Sama pykälä on siis voimassa myös nykyisessä kirkkolaissa. 
+Eduskunta ei siis ainoastaan ole sallinut kirkon noudattaa Raamattua sen toiminnassa ja opissa, vaan suorastaan kirkkolailla säätänyt, että näin tulee toimia.
+Kirkkovaltuutettujen ja muiden luottamushenkilöiden asema myös määritellään tässä kirkkolakikokonaisuudessa.
+Heitä koskee kirkkojärjestys, jossa linjataan, että kaikkea oppia kirkossa on tutkittava ja arvioitava Jumalan pyhän sanan, Raamatun, mukaan. 
+Olen itsekin tällä hetkellä kirkon luottamushenkilö, Riihimäen seurakunnan kirkkovaltuutettu, ja tässä tehtävässäni nostin esiin tilanteen, jossa kirkon toiminta oli mielestäni ristiriidassa Raamatun opetuksen kanssa. 
+Esitin kesäkuussa julkisesti seuraavan kysymyksen: ”Kirkko, jonka jäsen olen, on ilmoittanut olevansa Setan Helsinki Pride 2019:n virallinen kumppani. 
+Miten kirkon oppiperusta, Raamattu, sopii yhteen aatteen kanssa, jossa häpeä ja synti nostetaan ylpeyden aiheeksi?”
+16.07 
+Antti Kaikkonen kesk
+(vastauspuheenvuoro): 
+Arvoisa herra puhemies! 
+Naapurimaassa Ruotsissa on todettu jo, että monet imaamit ovat kansalliselle turvallisuudelle uhka.
+Haluaisin tiedustella hallitukselta: mitä te aiotte tehdä sille, että Suomi olisi vapaa maa meille suomalaisille eikä vapaa maa ulkomaalaisille rikollisille tai islamisteille? 
+ Kun tämä laki aikanaan tulee voimaan, pitää muslimiyhteisöjen imaamit ja muut johtajat velvoittaa kertomaan lain sisältö yhteisöilleen niin usein, että kenelläkään ei jää epäselväksi, mitä silpomisesta seuraa. 
+Jos jossain moskeijassa tai muussa uskonnollisessa huoneessa silpomista puolustetaan, pitää sellainen moskeija mielestäni sulkea ja silpomista puolustava ja silpomiseen kannustava imaami tai muu uskonnollinen johtaja karkottaa. 
+Tanskassahan on karkotettu näitä imaameja, kun he ovat saarnanneet jotain pahaa. 
+Suomen sisäministeriölle ja poliisijohdolle haluan tässä yhteydessä lähettää sellaisen viestin, että lopettakaa hyödytön tavallisten suomalaisten vihapuheen ja islamin kritisoimisen kyttääminen netissä ja keskittäkää rajallisia resurssejanne lasten ja naisten turvallisuuden lisäämiseen ja seksuaali- ja silpomisrikosten selvittämiseen ja ennaltaehkäisyyn. 
+ Edes tämän salin vihervasemman laidan ei pidä piiloutua tässä asiassa monikulturismi-ideologian, muslimien hyysäämisen ja suvaitsevaisuuden taakse vaan myöskin hyväksyä kovimmat mahdolliset tuomiot näistä silpomisrikoksista. 
+Edustaja Kimmo Kiljunen sosiaalidemokraateista yritti luoda sellaista kuvaa, että me kuulumme johonkin pahaan joukkoon, semmoiseen joukkoon, joka ei pidä monikulttuurisuudesta, ja että se syy, miksi me olisimme pahoja, liittyisi nimenomaan tähän, että me vastustamme monikulttuurisuutta ja islamisaatiota. 
+Meidän arvot ovat sellaisia, että me puolustamme suomalaisia ja me vastustamme monikulttuurisuuden ja islamin tuomia lieveilmiöitä. 
+ Myöskin Oulussa moskeijassa imaami suojeli tekijää, joka oli käyttänyt seksuaalisesti hyväksi lasta. 
+ On muuten demareitten entinen poliitikko tämä moskeijan imaami.  
+Haluan vielä korostaa, että todellakaan ei ole pahuutta puhua monikulttuurisuutta vastaan, nimenomaan monikulturismia ja islamisaatiota, koska se tuo niin paljon pahaa. 
+Ja nyt jos joku noudattaa hänen neuvoaan ja lukee Koraania ääneen ja joutuukin siitä rikostutkintaan, voiko ministeri ottaa omille niskoilleen tähän henkilöön kohdistuvan syytteen?
+Liikkumavaraa on, vaikka erilaiset imaamit suurella voimalla toisin väittävät.
+Suomenkin hallitus tukee tätä islamisaatiota edistävää toimintaa, toisin kuin pääministeri Rinne kyselytunnilla virheellisesti väitti. 
+ Maailma on muuttunut hijabeineen entistä ennakoimattomampaan suuntaan. 
+Imaamit ovat islaminuskon pappeja, mutta sellaisiakin havaintoja on, joissa imaamit ovat olleet suurimpia vihasaarnaajia.
+ Helsingin teologisen tiedekunnan aloittaessa islamilaisen teologian opetuksen meillä voi tulevaisuudessa olla edessämme tilanne, jossa imaamit ovat yhteiskunnan tunnustamia, oman uskontonsa pappeja. 
+Mutta aivan niin kuin edustaja Tanus totesi, on kuitenkin ongelmallista, että islamilaisessa oikeudessa saatetaan imaamin edessä solmia avioliitto, joka ei ole juridisesti pätevä Suomessa, mutta samalla miehellä saattaa olla useampi vaimo islamilaisen oikeusjärjestyksen mukaan, ja suomalaisen lainsäädännön valossa vain yksi heistä on sitten se juridinen vaimo. 
+Kaiken kaikkiaan pidän kyllä tärkeinä niitä tavoitteita, joita tässä lainsäädännössä muslimeihinkin liittyen on esitetty, mutta samalla on huomattava, että se ei välttämättä näitä ongelmia poista, että tämä laki saadaan voimaan. 
+14.56 
+Katri Kulmuni kesk
+(vastauspuheenvuoro): Arvoisa puhemies!
+Muslimimaahanmuuttajanaiset ovat usein heikoimmassa asemassa, mitä tulee myös seksuaaliseen häirintään ja seksuaalirikollisuuteen.
+Tämä johtuu muun muassa siitä, että maahanmuuttajataustaisella muslimiyhteisön naisella voi olla korkeampi kynnys mennä tekemään rikosilmoitus.
+Suosittelen kaikkia katsomaan myös tanskalaisen dokumentin Šarialakia Tanskassa, jossa kävi ilmi, että oli useita moskeijoita, joissa imaamit suoraan sanoen kielsivät näitä naisia ottamasta yhteyttä poliisiin.
+Se voi johtua myös siitä, että tullaan sellaisesta islamilaisesta kulttuuritaustasta, jossa valitettavasti naisten asema on selvästi miestä heikompi.
+Tässä hallituksen esityksessä muutetaan perusopetuslakia siten, että islamin opetuksen ryhmäkoot kasvavat kolmesta kymmeneen. 
+ Kiinnittäisin kuitenkin huomiota siihen, että vuonna 2012 islam-uskonnon opetukseen osallistui perusopetuksessa lähes 8 000 oppilasta ja muiden pienryhmien uskontojen opetukseen 2 400 oppilasta. 
+Meidän tulee nytten tässä hallituksen lakivalmistelussa kiinnittää huomiota myös siihen, että nämä islam-uskontoa opettavat henkilöt noudattavat opetussuunnitelmia ja Suomessa hyväksi havaittuja tapoja. 
+ Tällä tarkoitan sitä, että meidän tulee vaatia myös niiltä opettajilta samat pätevyydet kuin vaaditaan muiltakin opettajilta, joten tällaisia käytäntöjä, joita joskus on ollut, että imaami jostain tulee ja opettaa ilman pätevyyttä, ei voi edes poikkeustapauksessa mielestäni jatkaa.
+ Tokihan tässä on parantunut tämä tilanne vuosien saatossa ja pätevyyksiä monelta löytyy, mutta tässä täytyisi olla myös sitten jonkunnäköinen huomio, että nämä ja ramadan-juhla pystytään toteuttamaan.
+Toisen lisätalousarvion järkyttävin tieto löytyy muslimien maahanmuuttomomentilta.
+Lisäksi muslimi—kristitty-avioliitot ovat vakava ongelma, koska muslimimiehelle vaimo on alamainen ilman ihmisarvoa. 
+Imaamit valvovat, että islamin epäinhimillisiä määräyksiä noudatetaan täälläkin. 
+ Yksi suuri ja julkisuudelta pimitetty ongelma on myös se massiivinen bisnes, jota muslimiturvapaikanhakijoilla pyöritetään. 
+Vielä hirmuisempaa on se, että tänä vuonna islamilaisista maista tuleva maahanmuutto tulee maksamaan suomalaisille veronmaksajille yhteensä yli miljardin. 
+Taliban ilmoitti, että se pitää kolmen päivän tulitauon, jotta uskonnollista eid-juhlaa voidaan viettää rauhassa ramadan-paastokauden jälkeen, mutta Nato-johtoiset rauhanturvajoukot eivät kuulu tulitauon piiriin. 
+Siitäkin huolimatta, että operaatiossa saavutettavat tulokset ovat epävarmoja, kannatan suomalaisten panostuksen lisäämistä esitetyllä tavalla islamilaisen Afganistanin alueella olevan vakauden turvaamiseksi ja edelleen rakentamiseksi. 
+Ed. Kalevi Olin, joka on kollegani hallintoneuvostossa, tietää aivan hyvin, että olen usein hallintoneuvostossa kysynyt siitä, miten hartausohjelmat käsittelevät, voisiko olla mahdollista esimerkiksi islaminuskoisten ramadan-pyhään liittyvä hartausohjelma.
+Mutta Yleisradiossa emme koskaan kuule suomenkielisinä islamilaisia ohjelmia.
+Täällä ne ovat vastaanottokeskuksessa ja ramadania viettämässä, ja me syötämme neljä ateriaa päivässä heille. 
+Emme me halua semmoista kuin joku Pariisin esikaupunki, muslimien täyttämä Göteborg. 
+ He eivät salli muslimimaiden turvapaikkaturistien rantautua maaperälleen ollenkaan. 
+Tässä Yanar puhui islamisteista ja hysteriasta, ja täällä aikaisemmissa puheenvuoroissa puhuttiin siitä arvokkaasta kielenkäytöstä.
+Onko sinulla jotain islamia vastaan? 
+Arvoisa ministeri, nyt haluaisin kysyä, että kun tähän maahanmuuttoon pannaan runsaasti lisää rahaa, jotta pystymme hoitamaan tämän kriisin — näinhän sen tietenkin täytyy olla — niin kun tämän päivän tietojen mukaan Supo kertoo, että mukana maahan pyrkijöissä on Isis-taistelijoita ja Isis-värväreitä ja ääri-islamisteja, niin mitkä ovat ne toimet, millä hallitus pystyy karsimaan pois sellaiset turvapaikanhakijat, jotka ilmiselvästi eivät ole turvapaikanhakijoita.
+Miten te kerrotte suomalaisille, että rahat menevät oikeaan kohteeseen eivätkä Isis-taistelijoille tai islamin levittäjille? 
+ Uudistuksessa ei muutettu islamin opetuksen sisältöä.
+Nykytilanteessa muiden uskontojen opetus on myös opettajalle erittäin haastavaa: miten määritellä vaikkapa yleis-islam.
+Suomen 70 000—75 000 islamilaista muodostavat harvinaisen heterogeenisen ryhmän. 
+Näin ollen nykyinen yleis-islamin opetus ei sovi kaikille lasten erilaisen uskonnollisen taustan vuoksi. 
+21.02 
+Timo Heinonen kok
+(esittelypuheenvuoro): Puhemies!
+Suomessa asuu jo 70 000—75 000 islamilaista.
+ Nykytilanteessa luokan oppilaat hajoavat erilleen, kun käsitellään tärkeitä maailmankatsomuksellisia, kasvatuksellisia, moraalisia ja eettisiä kysymyksiä, vaikka niiden pohtiminen olisi hyvä tehdä koko luokan ja kaikkien eri islamin suuntauksiin kuuluvien oppilaiden kanssa yhdessä kaikille yhteisen oppiaineen tunnilla. 
+Asia todellakin on mitä ajankohtaisin juuri nyt, kun olemme pohtimassa muslimiturvapaikanhakijoiden tilannetta, niin kuin edustaja Myllykoski täällä hyvin sanoi.
+Voisi sanoa, että tämä muutos opetuksen uudistamiseksi on jopa välttämätön, sillä voisin väittää, että kunnat eivät pysty järjestämään esimerkiksi islamin opetusta pakolaislapsille vaikkapa Harjavallassa, jossa on iso pakolaiskeskus. 
+Kauniiksi lopuksi täytyy sanoa vielä tästä ryhmästä, joka nyt tänne tulee, että minulle on piirtynyt sellainen kuva, että heillä on aika vahva islamilainen vakaumus, kun he ovat tulleet tänne Suomeen, ja he tuovat sen kyllä mukanaan. 
+ Joka koettaisi opettaa islamin uskontoa, ei välttämättä olisi kelvollinen näitten lasten vanhempien mielestä opettamaan sitä, koska olisi ehkäpä niin sanotusti vääräuskoinen. 
+Mitään ei nosteta, kaikista kerrotaan ja lisätään sitä kautta ihmisten, myös muslimien tasa-arvoisuutta ja yhdenvertaisuutta. 
+  Hallitus rakentaa tällä esityksellä kovaa maailmaa — maailmaa, jossa oikeus omaan lapseen ja moskeijaan pääsyyn on kiinni lompakon paksuudesta. 
+Ja kaikki sellaiset vaikutteet, jotka tätä horjuttavat, on määrätietoisesti torjuttava, tulevat ne sitten äärivasemmiston, äärioikeiston tai radikaalin islamin saarnaajien taholta. 
+Edustajille Adlercreutz ja Niinistö haluaisin todeta, että kyllä minä kannatan — ja uskon, että kaikki tässä salissa kannattavat — hädänalaisten, myös muslimien auttamista. 
+Mutta te ette nyt tunnu tunnustavan sitä tosiseikkaa, että kaikki maahan saapuneet islamilaiset turvapaikanhakijat eivät todella ole hädänalaisia. 
+ Kauas ovat menneet ne ajat, kun Euroopassa toimittajat, asiantuntijat ja yliopiston sivistyneistö uskalsivat arvostella islamia.
+EU antautuu islamin edessä. 
+Muistutan siitä, että jos henkilö on avoimesti luopunut islamista, niin tuskinpa siellä mahdollisessa palautusmaassa, vaikkapa Afganistanissa, ne henkilöt, jotka häntä vainoaisivat, epäilisivät feikiksi tällaista. 
+Sen takia olen itse kyllä huolestunut tämän lakiesityksen kohdalla, että onko se vaara, että näiden henkilöiden, muun muassa entisten muslimien oikeusturva heikkenee. 
+ Nämähän ovat perinnöllisiä, kulttuurillisia, usein islamin uskontoon sidoksissa olevia rituaaleja, joiden perään pitäisi katsoa muullakin tavalla kuin pelkästään mainita täällä. 
+Meillä olisi hyvä keino lopettaa tämmöinen halal-teurastus.
+Jos nämä ovat islaminuskoisia, jotka tuovat tämän tavan tänne, annetaan heille sianlihaa, ja jos ei kelpaa, niin lähtevät pois. 
+Siinä todettiin, että nykyisessä toimintaympäristössä halal-lihan tuottaminen Suomessa on paras keino ennalta ehkäistä lainsäädännön vastaisia teurastusmenettelyitä. 
+Käytännön kysymys vielä, arvoisa puhemies, halal-teurastuksen valvonta ja teidän kantanne siihen.
+18.24 
+Pia Kauma kok
+(esittelypuheenvuoro): Arvoisa puhemies!
+ Ja sekin paasto taitaa olla semmoinen — no, Allah uinahtaa, niin silloin voi syödä, kun hän ei näe. 
+ Kun katsoin tuosta mediasta, niin sieltä leireiltä tulee viestiä, että muuta toivoa ei ole kuin Allah, mutta ainoa, joka tuntuu toimivan, on länsimaiset maat.
+Mertjärveltä, että tämä menee jotakuinkin oikein — myös islamilaisten perustunnustuksen: "La ilaha illa Allah wa Muhammad rasulullah."
+Ilta-Sanomissa oli tänään iso artikkeli, jonka otsikko oli ”Tukeeko Suomi jihad-opetusta?” 
+Suomen valtio on vuosikymmenten ajan tukenut islamilaista palestiinalaishallintoa avokätisesti muun muassa kehitysyhteistyövaroilla. 
+Miksette jäädytä jihadistien avustusrahoja, kuten Norja ja Tanska ovat tehneet? 
+Pohjois-Malissa valtaansa ovat vahvistaneet islamistiset ryhmät Ansar Eddine sekä Movement for Unity and Jihad in West Africa, MUJWA, joiden arvioidaan kytkeytyvän al-Qaidaan. 
+Internetistä onkin tullut aivan oma terrorismin rintamansa, niin sanottu sähköinen jihad. 
+ Uusien terroristien värväämisen ja islamistisen propagandan levittämisen lisäksi islamistinen mediarintama Gimf on kehittänyt ohjelmistoja, joiden avulla jihadistit pystyvät suojaamaan tietoliikenteensä tiedusteluviranomaisilta. 
+Islamistisia terrori-iskuja voidaan myös valmistella netissä esimerkiksi murtautumalla internetiin kytkettyihin valvontakamerajärjestelmiin ja tutkimalla niiden avulla tulevien iskujen kohteita, kuten rautatie- ja lentoasemia.
+ Konferenssiin osallistui kolme terroristijärjestöjen edustajaa, Hamaksen, Islamic Jihadin ja PFLP:n johtohahmoja. 
+Tässä selonteossa painotetaan, että osana kehityspolitiikkaa ja kehitysyhteistyötä Suomi edistää yhteiskuntien demokraattista kehitystä sekä oikeusvaltiokehitystä islamilaisessa maailmassa. 
+Eikö islamistinen terrorismi koske nimenomaan suomalaisia ja heidän arkeaan? 
+Aion nyt kysyä uudelleen: aiotteko te karkottaa Suomesta nämä islamilaiset ääriajattelijat, kuten Ranska toimii?
+Saako koulussa puhua ääri-islamista?
+ Saako esimerkiksi esittää pilakuvia Muhammedista? 
+Vuonna 2006 silloinen pääministeri Vanhanen pahoitteli ja pyysi anteeksi julkisesti, että Suomessa julkaistiin profeetta Muhammedin pilakuva. 
+Kun ei ole vielä selvää vastausta tällä kyselytunnilla saatu, kysyn vielä kerran vaikka sitten pääministeriltä: Kumartuuko Suomen hallitus edelleen islamistisen terrorin edessä, vai oletteko oppineet noista ajoista? 
+Islamisti murhasi erityisen raa’alla tavalla viattoman ihmisen keskelle katua. Kohteena oli koulun opettaja, joka oli puhunut koulussa sananvapaudesta. 
+Julkisuudessa olleiden tietojen mukaan opettaja murhattiin, koska hän esitti pilakuvia muslimien pyhästä miehestä, Muhammedista. 
+ Mutta eräs seikka on kiinnittänyt huomioni: hallituksen riveistä ei ole kuulunut julkista teon tuomitsemista, vaikka ranskalaiset itse kokevat tämän olevan islamistinen terroristi-isku Ranskan keskeisiä arvoja, kuten sananvapautta, kohtaan. 
+Oletteko turtuneet tai jopa hyväksyneet ääri-islamilaisen toiminnan osana nykymenoa? 
+ Hänet vapautettiin siitä, mutta esimerkiksi Isosta-Britanniasta hän ei voi hakea turvapaikkaa, koska siellä on tehty sellaista maahanmuuttopolitiikkaa, että ääri-islamilaiset suuttuisivat siitä.
+On käsittämätöntä, että esimerkiksi Pakistanissa kristitty, joka pilkkasi Muhammedia, sai kuolemantuomion.
+Huonoista uutisista huolimatta Lähi-idässä on kuitenkin myös uskonnollisilla johtajilla aitoa halua rauhaan. 
+ YK:n pakolaissopimuksessa ”pakolaisella” viitataan rodun, uskonnon, kansallisuuden, tiettyyn yhteiskuntaluokkaan kuulumisen tai poliittisen mielipiteen tähden vainottuun henkilöön.
+14.41 
+Outi Alanko-Kahiluoto vihr 
+(vastauspuheenvuoro): Herra puhemies!
+Se on meistä jokaisesta kansalaisesta kiinni, ja siihen vastuuseen pitää meitä herätellä, vaikka hengellisin johtajin, jos ei muu auta, mutta jos nyt yritettäisiin näitä kaupallisia ja valtion tukemia medioita.
+ On puhuttava myös henkisten ja hengellisten arvojen merkityksestä ja edistettävä niiden toteutumista.
+On hyvä, että vaalimme kestäviä, perinteisiä arvoja, kuten yhteisöllisyyttä, uskontoa, lähimmäisestä huolehtimista ja toisen kunnioittamista sekä luottamuksen ja kansanvallan rakentamista — että emme puhu vain yksilön oikeuksista, vaan olemme myös valmiita henkilökohtaisestikin kantamaan vastuuta, vastuuta itsestämme ja lähimmäisistämme sekä koko yhteiskunnasta. 
+Eli kaikki tämä on uskonnonvapautta, tähän kuuluu oleellisesti juuri tämä hengellisen ja maallisen regimentin erottaminen.
+18.35 
+Thomas Blomqvist r: Arvoisa rouva puhemies!
+Potilaalla tulisi olla myös mahdollisuus psykologiseen, hengelliseen tukeen, jonka tulisi kuulua näin ollen saattohoitoa toteuttavien yksiköiden valmiuksiin.
+ ”Joka asettaa yleisön saataville tai muutoin yleisön keskuuteen levittää tai pitää yleisön saatavilla tiedon, mielipiteen tai muun viestin, jossa uhataan, panetellaan tai solvataan jotakin ryhmää rodun, ihonvärin, syntyperän, kansallisen tai etnisen alkuperän, uskonnon tai vakaumuksen, seksuaalisen suuntautumisen tai vammaisuuden perusteella taikka niihin rinnastettavalla muulla perusteella, on tuomittava kiihottamisesta kansanryhmää vastaan sakkoon tai vankeuteen enintään kahdeksi vuodeksi.” 
+Tekstien siteeraamisesta ja hengellisen vakaumuksen julkisesta ilmaisemisesta voi joutua valtakunnansyyttäjän määräyksen nojalla esitutkintaan, kuten olemme joutuneet hiljattain näkemään.
+Nykyinen kiihottamispykälä on tarkoitettu lain esitöiden mukaan antamaan suojaa ennen kaikkea sellaisille väestöryhmille, esimerkiksi uskonnollisille, jotka yleensä ovat yhteiskunnassa sosiaalisesti heikommassa asemassa ja sen vuoksi erityisen suojan tarpeessa. 
+ Kuitenkin henkinen ja hengellinen pahoinvointi on lisääntynyt, ja siitä tässäkin salissa on monesti puhuttu ja kyselty ja ihmetelty, mistä se johtuu. 
+Henkinen ja hengellinen ahdistus ovat toki vaikeampia. 
+Siihen kuuluu jopa se hengellinen tuki, joskin joku voi siitäkin sanoa, että ei mitään hengellistä tukea, koska se skaala on äärettömän laaja, ja niissä ainakin hoitajana itse olen ollut valtavan usein läsnä. 
+Toukokuussa pidettyjen vaalien voittajaksi nousi hengellisen johtajan liittouma.
+Ja haluan myös huomauttaa, kun täällä on nyt keskusteltu uskonnosta ja varhaiskasvatuksesta, että nähdäkseni uskonnonvapaus on tietenkin yhteiskunnan perusta ja meidän tulee kunnioittaa ihmisten hengellisiä valintoja mutta itse uskonnottomana pienten lasten isänä lähtisin myös siitä, että kulttuurihistorian ja uskonnon harjoittamisen välinen raja on varsin veteen piirretty viiva. 
+ Siihen kuuluu jopa se hengellinen tuki, joskin joku voi siitäkin sanoa, että ei mitään hengellistä tukea, koska se skaala on äärettömän laaja, ja niissä ainakin hoitajana itse olen ollut valtavan usein läsnä. 
+ Potilaille voidaan taata hyvä kuolema asiantuntevalla saattohoidolla — tästä me olemme täällä yhtä mieltä tänään, kiitos siitä — jossa kipu ja kärsimys lievitetään lääkkein ja henkisellä ja myös hengellisellä tuella. 
+ Henkisen ja hengellisen kivun osalta tilanne on haasteellisempi. 
+Jos siitä puhuisin, niin olisin lähtenyt uralle kuin isäni toivoi, mutta olen tässä salissa, en hengellisessä tilaisuudessa.  
+Tietysti meillä niiden, jotka sitä saattohoitoa antavat, olisi annettava tämmöinen turvallinen ja rauhallinen kuolema omaiselle ja annettava sitä henkistä ja hengellistä ravintoa. 
+Pidän hyvin tärkeänä, että siinä yhteydessä otetaan huomioon ihmisen fyysinen, psyykkinen, henkinen ja hengellinen olemus, esimerkiksi sairaalasielunhoidon rooli uskonnosta riippumatta. 
+Mutta meillä on myös erikseen määritelty tämä varsinainen saattohoitovaihe, jossa on kuolema lähellä ja tarvitaan myös sitä henkistä, sosiaalista, hengellistä tukea lähestyvän kuoleman vuoksi, ja sen takia puhutaan myös erillisestä saattohoidosta. 
+Neuvostoliitto yritti viedä aseilla ateismia ja kommunismia, Yhdysvallat vapautta ja demokratiaa — kumpikin hanke epäonnistui yhtä surkeasti. 
+Minä mielestäni puheenvuorossani aika selkeästi ilmaisin, mistä tässä lakialoitteessa on kysymys, mutta koska se jäi vielä vähän epäselväksi, niin kerrataan: Minä haen vapautta uskontoihin kuuluville ihmisille, ihmisille, jotka haluavat kuulua johonkin uskontokuntaan mutta eivät halua uskonnonopetusta jostakin syystä — syitä on monia erilaisia.
+Tässä ei ole kysymys ateismin ja uskonnollisuuden välisestä vastakkainasettelusta ja kissanhännän vedosta.
+Mutta toki on korostettava sitä, että ihmisen vainoaminen uskonnon perusteella on tuomittavaa, olipa kysymys mistä hyvänsä uskonnosta, ja samoin vainoaminen myöskin ateismin perusteella on tuomittavaa.
+ Minä kunnioitan sitä, että eduskunnassa saa jatkossakin sanoa oman mielipiteensä, johtui se sitten teismistä tai ateismista tai jostakin muusta asiasta. 
+ Me olemme kuulleet täällä perusteluja — kun olen kysynyt itse, minkä takia siitä olisi jotain hyötyä tai se olisi lapsen etu — joissa puhutaan juuri näistä kulttuurisista tekijöistä ja yhteisöön kiinnittymisestä ja niin edelleen, vaikka tämä lapsi myöhemmin tekisi sen päätöksen, että hän ei halua kuulua siihen, hänestä tulee vaikka ateisti.
+Suomessa on ollut ainakin koko itsenäisyytemme ajan uskonnonvapaus, ja jokaisella on vapaus uskoa tai olla uskomatta ja kuulua erilaisiin uskonnollisiin yhdyskuntiin.
+Uskon- ja mielipiteenvapaus turvaavat jokaisen oikeuden maailmankuvaan. 
+Avioliitto on ihmiskunnan vanhin, edelleen yhteiskunnan merkittävin julkinen ja oikeudellinen sopimus, ja nimenomaan miehen ja naisen välinen avioliitto on kulttuurisesti hyvin yleinen, ihmisen luonnolliseen ymmärrykseen perustuva käsitys, aika lailla uskontokunnista riippumatta ja myös ateistisissa maissa.
+18.29 
+Maria Ohisalo vihr:
+Arvoisa herra puhemies!
+Tässä pitää ajatella myös niitä heikoimpia, eli tämän kohteeksi voivat joutua esimerkiksi kouluissa tai oppilaitoksissa lapset ja nuoret, heidän perheensä tai eri palvelualoilla tai vaikkapa maistraateissa toimivat henkilöt — eli sanan-, mielipiteen- ja uskonnonvapaus on turvattava kaikille. 
+Nykyään 18 vuotta täyttänyt lukio-opiskelija voi itse valita, opiskeleeko uskontoa vai elämänkatsomustietoa. 
+Opetussuunnitelmassa uskonnonopetus määritellään niin, että "uskonnonopetuksen tehtävänä on tarjota oppilaalle tietoja, taitoja ja kokemuksia, joista he saavat aineksia identiteetin ja maailmankatsomuksen rakentamiseen".
+Mielestäni tähän arvokkaaseen perintöön kuuluu oikeus järjestää oma uskonnonopetuksemme perinteisen tapamme mukaan. 
+Suomen ateistiyhdistyksen tavoitteena on ajaa sellaisia lakiuudistuksia, jotka turvaavat uskonnottomuuden ja ateistimin vapauden, ja tavoitteena on kaiken uskonnonopetuksen poistaminen valtion ylläpitämistä ja tukemista oppilaitoksista. 
+Tai en ole kuullut, että yksikään uskonnoton taikka ateisti olisi kannellut siitä, että hän ei saa mennä töihin juhlapyhinä.
+Kyllä nuo vapaapäivät näyttävät kelpaavan kuitenkin, ja nekin ovat minun mielestäni tärkeä osa suomalaista perinnettä, ja toivon, että nekin säilyvät, vaikka erilaisia uskontoja ja uskonnottomuuttakin suomalaiseen yhteiskuntaan lisää tulee. 
+Vaikka Suomi kansainvälistyy ja tulee erilaisia uskontoja, myös uskonnottomia kouluihin, niin suomalaiseen perinteeseen tiettyjä asioita kuuluu.
+Miten sitten on mahdollista, että tänne eduskuntaan on lipsahtanut muutama ateistikin? 
+Se vahvistaa uskonnollisten yhteisöjen, erilaisten yhteisöjen oikeuksia ilmaista itseään julkisessa keskustelussa, kun erilaisuus sallitaan.
+Se vahvistaa ateistisia yhteisöjä, se vahvistaa erilaisten vähemmistöjen oikeuksia, enkä näe yhtään (Puhemies koputtaa) ristiriitaa: identiteetit vahvistuvat, kun kaikille identiteeteille on tilaa.
+Olen hieman surullinen siitä, että jotkut kokevat, että heidän oma uskonnollinen vakaumus olisi jotenkin tässä ahdingossa, kun ihmisoikeuksia laajennetaan — näinhän se ei ole.
+Tämän jälkeen lähetyksessä kuultiin Suomalainen rukous.
+Tänään on kulunut päivälleen 80 vuotta siitä, kun talvisodassa käytiin Pelkosenniemen taistelu, joka päättyi, voinemme sanoa, suuren ihmeen ja monien rukouksien jälkeen suomalaisten voittoon. 
+Iltarukous, aamurukous toivon mukaan — mutta siitä ei ole apua, jos hukkalauma sattuu kohdalle.  
+Haluan sanoa, että siellä Kanadassa minun virallisessa ohjelmassani oli osallistuminen Kanadan rukousaamiaiselle, jossa puhui liberaali pääministeri Trudeau, joka on abortin kannattaja.
+Pidän erittäin tärkeänä, että Suomessa pätee mielipiteen-, uskonnon- ja uskonvapaus.
+Nyt sen jälkeen sitten on koettu ongelmallisena se, että ylipäätänsä lapsella, joka tulee kouluun, on esimerkiksi omasta kodistaan kasvatukseen liittyviä taipumuksia, kasvatukseen liittyviä omia uskonnon henkilökohtaiseen harjoittamiseen liittyviä asioita, kuten vaikka ruokarukous koulussa. 
+19.21 
+Joakim Strand r: Arvoisa rouva puhemies! 
+On myös tärkeätä tuomita esimerkiksi juutalaista synagogaa vastaan tehdyt vahingonteot ja myös anarkistien väkivaltainen riehuminen esimerkiksi itsenäisyyspäivänä. 
+Mutta, arvoisa puhemies, itse asia koski myös tätä vasemmiston tapaa esittää Israel roistona ja miehittäjävaltiona, vaikka juutalaiset todellisuudessa taistelevat olemassaolonsa puolesta.
+Ei aitoja ja rajoja tarvittaisi, elleivät terroristit räjäyttelisi esimerkiksi busseja ja siellä kuolisi paljon sivullisia ihmisiä, kuten on Israelissa tapahtunut jo vuosikymmenten ajan. 
+Kysynkin, edustaja Arhinmäki: tuomitsetko sinä tämän kolme viikkoa kestäneen summittaisen surmateon Israelissa, mitä on tapahtunut jatkuvasti, koska sitä ei tahdo kukaan tuomita?
+Meillä on ollut tataariväestö, meillä on ollut saamelaiset, meillä on ollut suomenruotsalainen väestö, meillä on ollut juutalaisväestö — me olemme aidosti monikulttuurinen kansa. 
+ Silloin ei lähdetä kajoamaan juutalaisten tai minkään toiminnanvapauteen, vaan se olisi uskonnollisen yhdyskunnan asia.
+ Täällä Suomessa juutalaisyhteisö on joutunut viimeisen vuoden aikana investoimaan merkittävästi juutalaisten kohteiden, synagogien ja koulujen turvallisuuteen lisääntyneen antisemitismin ja turvallisuusuhkien takia. 
+Ja kun muutama edustaja täällä aikaisemmin puhui näistä juutalaisiin kohdistuneista iskuista, niin tässäkin yhteydessä on huomattava, että jopa äärioikeistoa vakavampi uhka juutalaisille on Euroopassa nykyään terroristit.
+Kesällä 2014 nähtiin monien eurooppalaisten suurkaupunkien kaduilla jättimielenosoituksia, joissa huudettiin kuolemaa juutalaisille. 
+Pariisin ja Kööpenhaminan iskut juutalaisia vastaan muistuttivat, että meidän on puolustettava sananvapautta täällä Suomessa.
+ Minä olen siis sitä mieltä, että jos Suomen lainsäädäntö haluaa kieltää juutalaisen teurastustavan, se voi toki sen tehdä. 
+ Mutta eikö se käytännössä kohdistuisi niihin täällä oleviin juutalaisiin, jotka haluavat syödä oman kulttuurinsa ja uskontonsa mukaisesti teurastettua lihaa? 
+Arabeilla on 21 valtiota pääkaupunkeineen, luonnonrikkauksia ja öljyä, ja juutalaisilla on vain yksi valtio, jonka pinta-ala on 1 prosentti arabien alueista.
+Jerusalem ei ole koskaan ollut minkään muun kansakunnan pääkaupunki kuin Israelin. 
+ Se tuli Israelin pääkaupungiksi jo 3 000 vuotta sitten. 
+Yhdysvaltojen presidentti Trump haluaa siirtää Yhdysvaltojen suurlähetystön Tel Avivista Jerusalemiin, ja samalla hän tunnustaa Jerusalemin aseman Israelin pääkaupunkina. 
+ Israel on ostanut maansa verellään itsenäisyyssodassa, jonka ympäröivät naapurivaltiot julistivat, aloittivat sodan, ja sen jälkeen Israel on ollut useissa puolustussodissa. 
+Mutta on hyvä muistaa, että tässä konfliktissa vastakkain ei ole pelkästään köyhä ja sorrettu palestiinalaispakolaisten joukko ja yksi maailman iskukykyisimmistä armeijoista eli Israelin armeija, vaan toisaalta myös pieni Israel ja juutalaiskansa vastaan maailman islamilaiset vallat ja suuri joukko niiden tukijoita ympäri maailmaa.  
+Maanantaina YK:n ihmisoikeussopimus täytti 70 vuotta, ja samana päivänä EU:n perusoikeusvirasto julkaisi selvityksen, jonka mukaan lähes 40 prosenttia Euroopan juutalaisista on suunnitellut muuttoa muualle kasvaneen antisemitistisen vihan vuoksi. 
+Tämä hallitus on juuri tehnyt hienon päätöksen tukea Helsingin juutalaista seurakuntaa, ja seuraavana päivänä liehui hakaristilippu Helsingissä. 
+ Minäkin haluan kiittää hallitusta siitä, että ruoka-apu sai rahaa ja myös juutalaisten seurakunnan turvallisuuteen on panostettu. 
+Sitten pieni detalji on tämä juutalaisen seurakunnan turvallisuuteen lisääminen 300 000 euroa.  
+On hyvä, että juutalaisen seurakunnan turvallisuus taataan, mutta kyllä se pitää hoitaa ennen muuta sisäministeriön puolelta tulevaisuudessa eli poliisin voimin eikä tämäntyyppisen rahoituksen kautta. 
+Tiedän, että edustaja Östman on Israelin ystävä, ja voin sanoa, että tämä hallitus huolehtii siitä, että Suomen juutalainen väestö pystyy olemaan paremmin turvassa.
+Yhtenä merkittävimmistä avustuksista pidän myös Helsingin juutalaisen seurakunnan synagogan ja seurakuntakeskuksen turvallisuuden parantamiseen ja ylläpitoon kohdistettavaa rahoitusta.
+ Vuonna 2015 Ranskasta muuttikin Israeliin ennätykselliset 7 900 juutalaista. 
+ Monen lähtöön varmasti vaikutti paljolti myös se, että vuonna 2014 palestiinalaismielinen marssi johti Pariisissa siihen, että väkijoukko sai rauhassa huutaa Israelin vastaisia iskulauseita ja tuhota useita juutalaisia kauppoja. 
+Helsingin juutalaisessa seurakunnassa on myös päiväkoti ja yhteiskoulu.
+
