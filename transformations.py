@@ -316,7 +316,7 @@ def is_a_chair(name, time):
 
 # Add MPs into a list ("firstname lastname")
 df_edustajat = pd.read_excel('lookups/kansanedustajat.xlsx', sheet_name=0)
-edustajat = list(df_edustajat['edustajat_kokonimi']) 
+edustajat = list(df_edustajat['edustajat_nimet']) 
  
 
 # Add Ministers (title firstname lastname) into a list
