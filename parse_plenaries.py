@@ -195,6 +195,6 @@ religion_df = religion_df.assign(Sentence = r_sent)
   
 
 # Output to excel
-sentences_df.to_excel("output/sentences_%s.xlsx" % (year)) 
-religion_df.to_excel("output/religion_%s.xlsx" % (year)) 
+sentences_df.to_excel("sentences_%s.xlsx" % (year)) 
+religion_df.to_excel("religion_%s.xlsx" % (year)) 
 
